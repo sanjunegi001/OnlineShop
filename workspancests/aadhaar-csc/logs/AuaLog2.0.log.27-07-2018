@@ -1,0 +1,117 @@
+27-07-2018 11:54:25 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 11:54:26 com.auth.controller.DemoApiController 152 INFO : User:::AUTH_CASE_APP::Invalid user
+27-07-2018 11:58:02 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 11:58:03 com.auth.controller.DemoApiController 152 INFO : User:::AUTH_CASE::Invalid user
+27-07-2018 11:58:31 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 11:58:33 com.auth.controller.DemoApiController 553 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::ABR-242820180727115831498::RequestTime::2018-07-27 11:58:31.498::API Name::2.5
+27-07-2018 11:58:33 com.auth.controller.DemoApiController 554 INFO : Response Meta Data Details::Staus Message:Client Reference Id is invalid::responsetime::2018-07-27 11:58:33.624::Status Code:A111::ResTranscation id:
+27-07-2018 11:59:27 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 11:59:46 com.auth.controller.DemoApiController 531 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::ABR-495720180727115927625::RequestTime::2018-07-27 11:59:27.625::API Name::2.5
+27-07-2018 11:59:46 com.auth.controller.DemoApiController 532 INFO : Response Meta Data Details::Staus Message:Remote host closed connection during handshake::responsetime::2018-07-27 11:59:46.645::Status Code:A101::ResTranscation id:
+27-07-2018 12:00:22 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 12:00:38 com.auth.controller.DemoApiController 531 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::ABR-398620180727120022886::RequestTime::2018-07-27 12:00:22.885::API Name::2.5
+27-07-2018 12:00:38 com.auth.controller.DemoApiController 532 INFO : Response Meta Data Details::Staus Message:Remote host closed connection during handshake::responsetime::2018-07-27 12:00:38.236::Status Code:A101::ResTranscation id:
+27-07-2018 12:02:22 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 12:02:23 com.auth.controller.DemoApiController 364 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::ABR-706120180727120222127::RequestTime::2018-07-27 12:02:22.127::API Name::2.5
+27-07-2018 12:02:23 com.auth.controller.DemoApiController 365 INFO : Response Meta Data Details::Staus Message:null::responsetime::2018-07-27 12:02:23.497::Status Code: A201::Error Code:531::ResTranscation id:1807271202:0001980000:7744618
+27-07-2018 12:02:23 com.auth.controller.DemoApiController 531 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::ABR-706120180727120222127::RequestTime::2018-07-27 12:02:22.127::API Name::2.5
+27-07-2018 12:02:23 com.auth.controller.DemoApiController 532 INFO : Response Meta Data Details::Staus Message:Value in JsonObject's name/value pair cannot be null::responsetime::2018-07-27 12:02:23.869::Status Code:A101::ResTranscation id:
+27-07-2018 12:04:01 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 12:04:03 com.auth.controller.DemoApiController 364 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::ABR-208520180727120401933::RequestTime::2018-07-27 12:04:01.933::API Name::2.5
+27-07-2018 12:04:03 com.auth.controller.DemoApiController 365 INFO : Response Meta Data Details::Staus Message:null::responsetime::2018-07-27 12:04:03.077::Status Code: A201::Error Code:531::ResTranscation id:1807271204:0001980000:3055101
+27-07-2018 12:04:03 com.auth.controller.DemoApiController 531 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::ABR-208520180727120401933::RequestTime::2018-07-27 12:04:01.933::API Name::2.5
+27-07-2018 12:04:03 com.auth.controller.DemoApiController 532 INFO : Response Meta Data Details::Staus Message:Value in JsonObject's name/value pair cannot be null::responsetime::2018-07-27 12:04:03.255::Status Code:A101::ResTranscation id:
+27-07-2018 12:04:37 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 12:04:42 com.auth.controller.DemoApiController 364 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::ABR-609120180727120437604::RequestTime::2018-07-27 12:04:37.603::API Name::2.5
+27-07-2018 12:04:42 com.auth.controller.DemoApiController 365 INFO : Response Meta Data Details::Staus Message:null::responsetime::2018-07-27 12:04:42.209::Status Code: A201::Error Code:531::ResTranscation id:1807271204:0001980000:4037576
+27-07-2018 12:04:42 com.auth.controller.DemoApiController 531 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::ABR-609120180727120437604::RequestTime::2018-07-27 12:04:37.603::API Name::2.5
+27-07-2018 12:04:42 com.auth.controller.DemoApiController 532 INFO : Response Meta Data Details::Staus Message:Value in JsonObject's name/value pair cannot be null::responsetime::2018-07-27 12:04:42.339::Status Code:A101::ResTranscation id:
+27-07-2018 12:09:47 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 12:09:56 com.auth.controller.DemoApiController 538 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::ABR-637320180727120947426::RequestTime::2018-07-27 12:09:47.424::API Name::2.5
+27-07-2018 12:09:56 com.auth.controller.DemoApiController 539 INFO : Response Meta Data Details::Staus Message:unexpected element (uri:"", local:"table"). Expected elements are <{}xml>::responsetime::2018-07-27 12:09:56.880::Status Code:A101::ResTranscation id:
+27-07-2018 12:12:38 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 12:12:40 com.auth.controller.DemoApiController 538 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::ABR-520820180727121238733::RequestTime::2018-07-27 12:12:38.733::API Name::2.5
+27-07-2018 12:12:40 com.auth.controller.DemoApiController 539 INFO : Response Meta Data Details::Staus Message:unexpected element (uri:"", local:"table"). Expected elements are <{}xml>::responsetime::2018-07-27 12:12:40.641::Status Code:A101::ResTranscation id:
+27-07-2018 12:13:00 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 12:13:01 com.auth.controller.DemoApiController 538 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::ABR-159620180727121300015::RequestTime::2018-07-27 12:13:00.015::API Name::2.5
+27-07-2018 12:13:01 com.auth.controller.DemoApiController 539 INFO : Response Meta Data Details::Staus Message:unexpected element (uri:"", local:"table"). Expected elements are <{}xml>::responsetime::2018-07-27 12:13:01.736::Status Code:A101::ResTranscation id:
+27-07-2018 12:16:19 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 12:16:38 com.auth.controller.DemoApiController 538 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::ABR-507820180727121619438::RequestTime::2018-07-27 12:16:19.434::API Name::2.5
+27-07-2018 12:16:38 com.auth.controller.DemoApiController 539 INFO : Response Meta Data Details::Staus Message:Remote host closed connection during handshake::responsetime::2018-07-27 12:16:38.642::Status Code:A101::ResTranscation id:
+27-07-2018 12:16:58 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 12:17:00 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::ABR-962820180727121658774::RequestTime::2018-07-27 12:16:58.774::API Name::2.5
+27-07-2018 12:17:00 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-07-27 12:17:00.803::Status Code:A200::ResTranscation id:1807271216:0001980000:4586600
+27-07-2018 12:18:39 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 12:18:55 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::ABR-152220180727121839352::RequestTime::2018-07-27 12:18:39.351::API Name::2.5
+27-07-2018 12:18:55 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-07-27 12:18:55.223::Status Code:A200::ResTranscation id:1807271218:0001980000:4563678
+27-07-2018 12:18:58 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 12:18:59 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::ABR-303420180727121858317::RequestTime::2018-07-27 12:18:58.317::API Name::2.5
+27-07-2018 12:18:59 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-07-27 12:18:59.736::Status Code:A200::ResTranscation id:1807271218:0001980000:1927393
+27-07-2018 12:19:01 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 12:19:17 com.auth.controller.DemoApiController 538 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::ABR-491220180727121901635::RequestTime::2018-07-27 12:19:01.634::API Name::2.5
+27-07-2018 12:19:17 com.auth.controller.DemoApiController 539 INFO : Response Meta Data Details::Staus Message:Remote host closed connection during handshake::responsetime::2018-07-27 12:19:17.055::Status Code:A101::ResTranscation id:
+27-07-2018 12:44:10 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 12:44:26 com.auth.controller.DemoApiController 538 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::ABR-761220180727124410306::RequestTime::2018-07-27 12:44:10.306::API Name::2.5
+27-07-2018 12:44:26 com.auth.controller.DemoApiController 539 INFO : Response Meta Data Details::Staus Message:Remote host closed connection during handshake::responsetime::2018-07-27 12:44:26.495::Status Code:A101::ResTranscation id:
+27-07-2018 12:44:52 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 12:44:54 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::ABR-132720180727124452747::RequestTime::2018-07-27 12:44:52.747::API Name::2.5
+27-07-2018 12:44:54 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-07-27 12:44:54.772::Status Code:A200::ResTranscation id:1807271244:0001980000:6104729
+27-07-2018 12:45:32 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 12:45:48 com.auth.controller.DemoApiController 538 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::ABR-292420180727124532690::RequestTime::2018-07-27 12:45:32.690::API Name::2.5
+27-07-2018 12:45:48 com.auth.controller.DemoApiController 539 INFO : Response Meta Data Details::Staus Message:Remote host closed connection during handshake::responsetime::2018-07-27 12:45:48.323::Status Code:A101::ResTranscation id:
+27-07-2018 12:46:00 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 12:46:16 com.auth.controller.DemoApiController 538 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::ABR-592820180727124600772::RequestTime::2018-07-27 12:46:00.772::API Name::2.5
+27-07-2018 12:46:16 com.auth.controller.DemoApiController 539 INFO : Response Meta Data Details::Staus Message:Remote host closed connection during handshake::responsetime::2018-07-27 12:46:16.486::Status Code:A101::ResTranscation id:
+27-07-2018 12:46:41 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 12:46:43 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::ABR-326620180727124641436::RequestTime::2018-07-27 12:46:41.436::API Name::2.5
+27-07-2018 12:46:43 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-07-27 12:46:43.057::Status Code:A200::ResTranscation id:1807271246:0001980000:6675584
+27-07-2018 13:12:27 com.auth.controller.BioApiController 86 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 13:12:28 com.auth.controller.BioApiController 307 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::ABR-266320180727011227281::RequestTime::2018-07-27 13:12:27.281::API Name::2.5
+27-07-2018 13:12:28 com.auth.controller.BioApiController 308 INFO : Response Meta Data Details::Staus Message:FMR usage not allowed as per license.::responsetime::2018-07-27 13:12:28.659::Status Code: A201::Error Code:576::ResTranscation id:1807271312:0001980000:7912205
+27-07-2018 13:19:13 com.auth.controller.BioApiController 86 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 13:19:30 com.auth.controller.BioApiController 466 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::ABR-135620180727011913385::RequestTime::2018-07-27 13:19:13.380::API Name::2.5
+27-07-2018 13:19:30 com.auth.controller.BioApiController 467 INFO : Response Meta Data Details::Staus Message:Remote host closed connection during handshake::responsetime::2018-07-27 13:19:30.894::Status Code:A101::ResTranscation id:
+27-07-2018 13:23:54 com.auth.controller.BioApiController 86 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 13:23:58 com.auth.controller.BioApiController 280 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::ABR-253620180727012354273::RequestTime::2018-07-27 13:23:54.270::API Name::2.5
+27-07-2018 13:23:58 com.auth.controller.BioApiController 281 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-07-27 13:23:58.097::Status Code:A200::ResTranscation id:1807271323:0001980000:5328164
+27-07-2018 16:40:09 com.auth.controller.HomeController 98 INFO : User Login ::AUTH_TUH
+27-07-2018 16:42:27 com.auth.controller.HomeController 97 INFO : User Login ::AUTH_TUH
+27-07-2018 17:35:47 com.auth.controller.BioApiController 87 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 17:35:52 com.auth.controller.BioApiController 336 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::ABR-110120180727053547178::RequestTime::2018-07-27 17:35:47.176::API Name::2.5
+27-07-2018 17:35:52 com.auth.controller.BioApiController 337 INFO : Response Meta Data Details::Staus Message:Duplicate request.::responsetime::2018-07-27 17:35:52.046::Status Code: A201::Error Code:563::ResTranscation id:1807271735:0001980000:5233522
+27-07-2018 17:36:35 com.auth.controller.BioApiController 87 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 17:36:38 com.auth.controller.BioApiController 336 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::ABR-356420180727053635950::RequestTime::2018-07-27 17:36:35.950::API Name::2.5
+27-07-2018 17:36:38 com.auth.controller.BioApiController 337 INFO : Response Meta Data Details::Staus Message:Duplicate request.::responsetime::2018-07-27 17:36:37.997::Status Code: A201::Error Code:563::ResTranscation id:1807271736:0001980000:9639793
+27-07-2018 17:36:45 com.auth.controller.BioApiController 87 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 17:37:00 com.auth.controller.BioApiController 497 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::ABR-790020180727053645259::RequestTime::2018-07-27 17:36:45.259::API Name::2.5
+27-07-2018 17:37:00 com.auth.controller.BioApiController 498 INFO : Response Meta Data Details::Staus Message:Remote host closed connection during handshake::responsetime::2018-07-27 17:37:00.952::Status Code:A101::ResTranscation id:
+27-07-2018 17:39:26 com.auth.controller.BioApiController 87 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 17:39:43 com.auth.controller.BioApiController 504 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::ABR-871720180727053926065::RequestTime::2018-07-27 17:39:26.062::API Name::2.5
+27-07-2018 17:39:43 com.auth.controller.BioApiController 505 INFO : Response Meta Data Details::Staus Message:Remote host closed connection during handshake::responsetime::2018-07-27 17:39:43.662::Status Code:A101::ResTranscation id:
+27-07-2018 17:58:15 com.auth.controller.BioApiController 89 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 17:58:16 com.auth.controller.BioApiController 630 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::::RequestTime::::API Name::2.5
+27-07-2018 17:58:16 com.auth.controller.BioApiController 631 INFO : Response Meta Data Details::Staus Message:There is something technical issue! Please contact support team::ResponseTime::2018-07-27 17:58:16.005::Status Code:A101::ResTranscation id:
+27-07-2018 17:58:47 com.auth.controller.BioApiController 89 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 17:58:47 com.auth.controller.BioApiController 630 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::::RequestTime::::API Name::2.5
+27-07-2018 17:58:47 com.auth.controller.BioApiController 631 INFO : Response Meta Data Details::Staus Message:There is something technical issue! Please contact support team::ResponseTime::2018-07-27 17:58:47.878::Status Code:A101::ResTranscation id:
+27-07-2018 17:59:08 com.auth.controller.BioApiController 89 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 17:59:08 com.auth.controller.BioApiController 630 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::::RequestTime::::API Name::2.5
+27-07-2018 17:59:08 com.auth.controller.BioApiController 631 INFO : Response Meta Data Details::Staus Message:There is something technical issue! Please contact support team::ResponseTime::2018-07-27 17:59:08.548::Status Code:A101::ResTranscation id:
+27-07-2018 18:06:40 com.auth.controller.BioApiController 92 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 18:06:41 com.auth.controller.BioApiController 636 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::::RequestTime::::API Name::2.5
+27-07-2018 18:06:41 com.auth.controller.BioApiController 637 INFO : Response Meta Data Details::Staus Message:There is something technical issue! Please contact support team::ResponseTime::2018-07-27 18:06:41.366::Status Code:A101::ResTranscation id:
+27-07-2018 18:07:02 com.auth.controller.BioApiController 92 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 18:07:02 com.auth.controller.BioApiController 636 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::::RequestTime::::API Name::2.5
+27-07-2018 18:07:02 com.auth.controller.BioApiController 637 INFO : Response Meta Data Details::Staus Message:There is something technical issue! Please contact support team::ResponseTime::2018-07-27 18:07:02.377::Status Code:A101::ResTranscation id:
+27-07-2018 18:10:47 com.auth.controller.BioApiController 93 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 18:10:48 com.auth.controller.BioApiController 638 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::::RequestTime::::API Name::2.5
+27-07-2018 18:10:48 com.auth.controller.BioApiController 639 INFO : Response Meta Data Details::Staus Message:There is something technical issue! Please contact support team::ResponseTime::2018-07-27 18:10:48.864::Status Code:A101::ResTranscation id:
+27-07-2018 18:14:02 com.auth.controller.BioApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 18:14:03 com.auth.controller.BioApiController 648 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::::RequestTime::::API Name::2.5
+27-07-2018 18:14:03 com.auth.controller.BioApiController 649 INFO : Response Meta Data Details::Staus Message:There is something technical issue! Please contact support team::ResponseTime::2018-07-27 18:14:03.312::Status Code:A101::ResTranscation id:
+27-07-2018 18:15:24 com.auth.controller.BioApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 18:15:25 com.auth.controller.BioApiController 648 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::::RequestTime::::API Name::2.5
+27-07-2018 18:15:25 com.auth.controller.BioApiController 649 INFO : Response Meta Data Details::Staus Message:There is something technical issue! Please contact support team::ResponseTime::2018-07-27 18:15:25.713::Status Code:A101::ResTranscation id:
+27-07-2018 18:17:13 com.auth.controller.BioApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+27-07-2018 18:17:13 com.auth.controller.BioApiController 648 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::::RequestTime::::API Name::2.5
+27-07-2018 18:17:13 com.auth.controller.BioApiController 649 INFO : Response Meta Data Details::Staus Message:There is something technical issue! Please contact support team::ResponseTime::2018-07-27 18:17:13.980::Status Code:A101::ResTranscation id:

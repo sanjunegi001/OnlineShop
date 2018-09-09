@@ -1,0 +1,129 @@
+30-08-2018 11:36:43 com.auth.controller.OtpApiController 92 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 11:36:45 com.auth.controller.OtpApiController 450 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::::RequestTime::::API Name::2.5
+30-08-2018 11:36:45 com.auth.controller.OtpApiController 451 INFO : Response Meta Data Details::Staus Message:Channel value not allowed::ResponseTime::2018-08-30 11:36:45.726::Status Code:A117::ResTranscation id:
+30-08-2018 11:37:02 com.auth.controller.OtpApiController 92 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 11:37:02 com.auth.controller.OtpApiController 450 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::::RequestTime::::API Name::2.5
+30-08-2018 11:37:02 com.auth.controller.OtpApiController 451 INFO : Response Meta Data Details::Staus Message:Channel value not allowed::ResponseTime::2018-08-30 11:37:02.793::Status Code:A117::ResTranscation id:
+30-08-2018 11:37:15 com.auth.controller.OtpApiController 92 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 11:37:15 com.auth.controller.OtpApiController 265 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::::RequestTime::::API Name::2.0
+30-08-2018 11:37:15 com.auth.controller.OtpApiController 266 INFO : Response Meta Data Details::Staus Message:Duplicate unique id::ResponseTime::2018-08-30 11:37:15.738::Status Code:A111::ResTranscation id:
+30-08-2018 11:37:37 com.auth.controller.OtpApiController 92 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 11:37:41 com.auth.controller.OtpApiController 317 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::::RequestTime::::API Name::2.5
+30-08-2018 11:37:41 com.auth.controller.OtpApiController 318 INFO : Response Meta Data Details::Staus Message:OTP Generation Successfull::ResponseTime::2018-08-30 11:37:40.918::Status Code:A200::ResTranscation id:1808301137:0001980000:1141957
+30-08-2018 11:38:22 com.auth.controller.OtpApiController 92 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 11:38:22 com.auth.controller.OtpApiController 741 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::::RequestTime::::API Name::2.5
+30-08-2018 11:38:22 com.auth.controller.OtpApiController 742 INFO : Response Meta Data Details::Staus Message:Invalid authtype::ResponseTime::2018-08-30 11:38:22.497::Status Code:A119::ResTranscation id:
+30-08-2018 11:38:32 com.auth.controller.OtpApiController 92 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 11:38:36 com.auth.controller.OtpApiController 559 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::::RequestTime::2018-08-30 11:38:32.433::API Name::2.5
+30-08-2018 11:38:36 com.auth.controller.OtpApiController 560 INFO : Response Meta Data Details::Staus Message:Invalid OTP value.::ResponseTime::2018-08-30 11:38:36.784::Status Code:400::ResTranscation id:1808301137:0001980000:1141957
+30-08-2018 11:39:03 com.auth.controller.OtpApiController 92 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 11:39:05 com.auth.controller.OtpApiController 625 INFO : User:::null::Invalid SubAUA
+30-08-2018 11:47:06 com.auth.controller.OtpApiController 92 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 11:47:12 com.auth.controller.OtpApiController 625 INFO : User:::null::Invalid SubAUA
+30-08-2018 11:47:30 com.auth.controller.OtpApiController 92 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 11:47:31 com.auth.controller.OtpApiController 625 INFO : User:::null::Invalid SubAUA
+30-08-2018 13:22:20 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 13:22:24 com.auth.controller.OtpApiController 263 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808301322:0001980000:4996822::RequestTime::::API Name::2.5
+30-08-2018 13:22:24 com.auth.controller.OtpApiController 264 INFO : Response Meta Data Details::Staus Message:Duplicate unique id::ResponseTime::2018-08-30 13:22:24.327::Status Code:A111::ResTranscation id:1808301322:0001980000:4996822
+30-08-2018 13:22:41 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 13:22:45 com.auth.controller.OtpApiController 838 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::::RequestTime::::API Name::2.5
+30-08-2018 13:22:45 com.auth.controller.OtpApiController 839 INFO : Response Meta Data Details::Staus Message:There is something technical issue! Please contact support team::ResponseTime::2018-08-30 13:22:45.002::Status Code:A101::ResTranscation id:
+30-08-2018 13:34:04 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 13:34:07 com.auth.controller.OtpApiController 377 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808301334:0001980000:8044409::RequestTime::::API Name::2.5
+30-08-2018 13:34:07 com.auth.controller.OtpApiController 378 INFO : Response Meta Data Details::Staus Message:The attribute 'uid' of tag 'otp' is not a valid aadhaar number::ResponseTime::2018-08-30 13:34:07.662::Status Code:A211::ResTranscation id:1808301334:0001980000:8044409
+30-08-2018 14:21:14 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 14:21:15 com.auth.controller.OtpApiController 485 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::::RequestTime::2018-08-30 14:21:14.225::API Name::2.0
+30-08-2018 14:21:15 com.auth.controller.OtpApiController 486 INFO : Response Meta Data Details::Staus Message:Unique id is not valid::ResponseTime::2018-08-30 14:21:15.407::Status Code:A111::ResTranscation id:
+30-08-2018 14:21:21 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 14:21:21 com.auth.controller.OtpApiController 485 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::::RequestTime::2018-08-30 14:21:21.467::API Name::2.0
+30-08-2018 14:21:21 com.auth.controller.OtpApiController 486 INFO : Response Meta Data Details::Staus Message:Unique id is not valid::ResponseTime::2018-08-30 14:21:21.728::Status Code:A111::ResTranscation id:
+30-08-2018 14:24:20 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 14:24:37 com.auth.controller.OtpApiController 859 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::::RequestTime::::API Name::2.5
+30-08-2018 14:24:37 com.auth.controller.OtpApiController 860 INFO : Response Meta Data Details::Staus Message:There is something technical issue! Please contact support team::ResponseTime::2018-08-30 14:24:37.643::Status Code:A101::ResTranscation id:
+30-08-2018 17:13:14 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 17:13:20 com.auth.controller.OtpApiController 315 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808301713:0001980000:7167990::RequestTime::::API Name::2.5
+30-08-2018 17:13:20 com.auth.controller.OtpApiController 316 INFO : Response Meta Data Details::Staus Message:OTP Generation Successfull::ResponseTime::2018-08-30 17:13:20.621::Status Code:A200::ResTranscation id:1808301713:0001980000:7167990
+30-08-2018 17:13:36 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 17:13:37 com.auth.controller.OtpApiController 263 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808301713:0001980000:2227535::RequestTime::::API Name::2.5
+30-08-2018 17:13:37 com.auth.controller.OtpApiController 264 INFO : Response Meta Data Details::Staus Message:Duplicate unique id::ResponseTime::2018-08-30 17:13:37.067::Status Code:A111::ResTranscation id:1808301713:0001980000:2227535
+30-08-2018 17:13:44 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 17:13:45 com.auth.controller.OtpApiController 381 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808301713:0001980000:3460038::RequestTime::::API Name::2.5
+30-08-2018 17:13:45 com.auth.controller.OtpApiController 382 INFO : Response Meta Data Details::Staus Message:The attribute 'uid' of tag 'otp' is not a valid aadhaar number::ResponseTime::2018-08-30 17:13:45.751::Status Code:A211::ResTranscation id:1808301713:0001980000:3460038
+30-08-2018 17:13:47 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 17:13:48 com.auth.controller.OtpApiController 381 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808301713:0001980000:5280370::RequestTime::::API Name::2.5
+30-08-2018 17:13:48 com.auth.controller.OtpApiController 382 INFO : Response Meta Data Details::Staus Message:The attribute 'uid' of tag 'otp' is not a valid aadhaar number::ResponseTime::2018-08-30 17:13:48.567::Status Code:A211::ResTranscation id:1808301713:0001980000:5280370
+30-08-2018 17:15:14 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 17:15:22 com.auth.controller.OtpApiController 381 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808301715:0001980000:4456264::RequestTime::::API Name::2.5
+30-08-2018 17:15:22 com.auth.controller.OtpApiController 382 INFO : Response Meta Data Details::Staus Message:The attribute 'uid' of tag 'otp' is not a valid aadhaar number::ResponseTime::2018-08-30 17:15:22.681::Status Code:A211::ResTranscation id:1808301715:0001980000:4456264
+30-08-2018 17:17:28 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 17:17:31 com.auth.controller.OtpApiController 381 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808301717:0001980000:4744427::RequestTime::::API Name::2.5
+30-08-2018 17:17:31 com.auth.controller.OtpApiController 382 INFO : Response Meta Data Details::Staus Message:The attribute 'uid' of tag 'otp' is not a valid aadhaar number::ResponseTime::2018-08-30 17:17:31.361::Status Code:A211::ResTranscation id:1808301717:0001980000:4744427
+30-08-2018 17:17:38 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 17:17:39 com.auth.controller.OtpApiController 263 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808301717:0001980000:4035467::RequestTime::::API Name::2.5
+30-08-2018 17:17:39 com.auth.controller.OtpApiController 264 INFO : Response Meta Data Details::Staus Message:Duplicate unique id::ResponseTime::2018-08-30 17:17:39.078::Status Code:A111::ResTranscation id:1808301717:0001980000:4035467
+30-08-2018 17:17:48 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 17:17:48 com.auth.controller.OtpApiController 263 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808301717:0001980000:1808275::RequestTime::::API Name::2.5
+30-08-2018 17:17:48 com.auth.controller.OtpApiController 264 INFO : Response Meta Data Details::Staus Message:Duplicate unique id::ResponseTime::2018-08-30 17:17:48.753::Status Code:A111::ResTranscation id:1808301717:0001980000:1808275
+30-08-2018 17:17:50 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 17:17:50 com.auth.controller.OtpApiController 263 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808301717:0001980000:7364723::RequestTime::::API Name::2.5
+30-08-2018 17:17:50 com.auth.controller.OtpApiController 264 INFO : Response Meta Data Details::Staus Message:Duplicate unique id::ResponseTime::2018-08-30 17:17:50.719::Status Code:A111::ResTranscation id:1808301717:0001980000:7364723
+30-08-2018 17:50:23 com.auth.controller.DemoApiController 89 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 17:50:28 com.auth.controller.DemoApiController 430 INFO : User:::null::Invalid SubAUA
+30-08-2018 17:51:33 com.auth.controller.DemoApiController 89 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 17:51:38 com.auth.controller.DemoApiController 371 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808301751:0001980000:3093995::RequestTime::2018-08-30 17:51:33.696::API Name::2.5
+30-08-2018 17:51:38 com.auth.controller.DemoApiController 372 INFO : Response Meta Data Details::Staus Message:Pi(basic)attributes of demographic data did not match.::responsetime::2018-08-30 17:51:38.082::Status Code: A201::Error Code:100::ResTranscation id:1808301751:0001980000:3093995
+30-08-2018 17:52:14 com.auth.controller.DemoApiController 89 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 17:52:16 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808301752:0001980000:9386973::RequestTime::2018-08-30 17:52:14.724::API Name::2.5
+30-08-2018 17:52:16 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-30 17:52:16.511::Status Code:A200::ResTranscation id:1808301752:0001980000:9386973
+30-08-2018 17:53:11 com.auth.controller.BioApiController 92 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 17:53:12 com.auth.controller.BioApiController 392 INFO : User:::null::Invalid SubAUA
+30-08-2018 17:54:10 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 17:54:10 com.auth.controller.OtpApiController 263 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808301754:0001980000:7763294::RequestTime::::API Name::2.5
+30-08-2018 17:54:10 com.auth.controller.OtpApiController 264 INFO : Response Meta Data Details::Staus Message:Duplicate unique id::ResponseTime::2018-08-30 17:54:10.865::Status Code:A111::ResTranscation id:1808301754:0001980000:7763294
+30-08-2018 17:54:25 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 17:54:26 com.auth.controller.OtpApiController 381 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808301754:0001980000:9930510::RequestTime::::API Name::2.5
+30-08-2018 17:54:26 com.auth.controller.OtpApiController 382 INFO : Response Meta Data Details::Staus Message:The attribute 'uid' of tag 'otp' is not a valid aadhaar number::ResponseTime::2018-08-30 17:54:26.066::Status Code:A211::ResTranscation id:1808301754:0001980000:9930510
+30-08-2018 18:04:37 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 18:04:39 com.auth.controller.OtpApiController 263 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808301804:0001980000:5321760::RequestTime::::API Name::2.5
+30-08-2018 18:04:39 com.auth.controller.OtpApiController 264 INFO : Response Meta Data Details::Staus Message:Duplicate unique id::ResponseTime::2018-08-30 18:04:39.018::Status Code:A111::ResTranscation id:1808301804:0001980000:5321760
+30-08-2018 18:04:50 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 18:04:51 com.auth.controller.OtpApiController 263 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808301804:0001980000:9894420::RequestTime::::API Name::2.5
+30-08-2018 18:04:51 com.auth.controller.OtpApiController 264 INFO : Response Meta Data Details::Staus Message:Duplicate unique id::ResponseTime::2018-08-30 18:04:51.016::Status Code:A111::ResTranscation id:1808301804:0001980000:9894420
+30-08-2018 18:05:01 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 18:08:49 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 18:08:49 com.auth.controller.OtpApiController 263 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808301808:0001980000:8376224::RequestTime::::API Name::2.5
+30-08-2018 18:08:49 com.auth.controller.OtpApiController 264 INFO : Response Meta Data Details::Staus Message:Duplicate unique id::ResponseTime::2018-08-30 18:08:49.475::Status Code:A111::ResTranscation id:1808301808:0001980000:8376224
+30-08-2018 18:09:05 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 18:09:06 com.auth.controller.OtpApiController 263 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808301809:0001980000:3754660::RequestTime::::API Name::2.5
+30-08-2018 18:09:06 com.auth.controller.OtpApiController 264 INFO : Response Meta Data Details::Staus Message:Duplicate unique id::ResponseTime::2018-08-30 18:09:06.182::Status Code:A111::ResTranscation id:1808301809:0001980000:3754660
+30-08-2018 18:09:17 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 18:09:17 com.auth.controller.OtpApiController 514 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::::RequestTime::2018-08-30 18:09:17.441::API Name::2.0
+30-08-2018 18:09:17 com.auth.controller.OtpApiController 515 INFO : Response Meta Data Details::Staus Message:Unique id is not valid::ResponseTime::2018-08-30 18:09:17.650::Status Code:A111::ResTranscation id:
+30-08-2018 18:09:31 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 18:09:31 com.auth.controller.OtpApiController 514 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::::RequestTime::2018-08-30 18:09:31.083::API Name::2.0
+30-08-2018 18:09:31 com.auth.controller.OtpApiController 515 INFO : Response Meta Data Details::Staus Message:Unique id is not valid::ResponseTime::2018-08-30 18:09:31.291::Status Code:A111::ResTranscation id:
+30-08-2018 18:09:34 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 18:09:34 com.auth.controller.OtpApiController 263 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808301809:0001980000:9458003::RequestTime::::API Name::2.5
+30-08-2018 18:09:34 com.auth.controller.OtpApiController 264 INFO : Response Meta Data Details::Staus Message:Duplicate unique id::ResponseTime::2018-08-30 18:09:34.328::Status Code:A111::ResTranscation id:1808301809:0001980000:9458003
+30-08-2018 18:09:37 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 18:09:37 com.auth.controller.OtpApiController 514 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::::RequestTime::2018-08-30 18:09:37.154::API Name::2.0
+30-08-2018 18:09:37 com.auth.controller.OtpApiController 515 INFO : Response Meta Data Details::Staus Message:Unique id is not valid::ResponseTime::2018-08-30 18:09:37.361::Status Code:A111::ResTranscation id:
+30-08-2018 18:09:58 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 18:09:58 com.auth.controller.OtpApiController 514 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::::RequestTime::2018-08-30 18:09:58.139::API Name::2.0
+30-08-2018 18:09:58 com.auth.controller.OtpApiController 515 INFO : Response Meta Data Details::Staus Message:Unique id is not valid::ResponseTime::2018-08-30 18:09:58.329::Status Code:A111::ResTranscation id:
+30-08-2018 18:10:17 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 18:10:17 com.auth.controller.OtpApiController 514 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::::RequestTime::2018-08-30 18:10:17.027::API Name::2.0
+30-08-2018 18:10:17 com.auth.controller.OtpApiController 515 INFO : Response Meta Data Details::Staus Message:Unique id is not valid::ResponseTime::2018-08-30 18:10:17.272::Status Code:A111::ResTranscation id:
+30-08-2018 18:10:29 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 18:10:30 com.auth.controller.OtpApiController 514 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::::RequestTime::2018-08-30 18:10:29.787::API Name::2.0
+30-08-2018 18:10:30 com.auth.controller.OtpApiController 515 INFO : Response Meta Data Details::Staus Message:Unique id is not valid::ResponseTime::2018-08-30 18:10:30.023::Status Code:A111::ResTranscation id:
+30-08-2018 18:13:36 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 18:13:37 com.auth.controller.OtpApiController 514 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::::RequestTime::2018-08-30 18:13:36.099::API Name::2.5
+30-08-2018 18:13:37 com.auth.controller.OtpApiController 515 INFO : Response Meta Data Details::Staus Message:Unique id is not valid::ResponseTime::2018-08-30 18:13:37.310::Status Code:A309::ResTranscation id:
+30-08-2018 18:15:05 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 18:15:09 com.auth.controller.OtpApiController 589 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::::RequestTime::2018-08-30 18:15:05.477::API Name::2.5
+30-08-2018 18:15:09 com.auth.controller.OtpApiController 590 INFO : Response Meta Data Details::Staus Message:Invalid OTP value.::ResponseTime::2018-08-30 18:15:09.323::Status Code:400::ResTranscation id:1808301805:0001980000:8327345
+30-08-2018 18:17:57 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 18:18:03 com.auth.controller.OtpApiController 655 INFO : User:::null::Invalid SubAUA
+30-08-2018 18:18:49 com.auth.controller.OtpApiController 90 INFO : CONSENT : CONSENT TAKEN BY USER!
+30-08-2018 18:18:50 com.auth.controller.OtpApiController 655 INFO : User:::null::Invalid SubAUA

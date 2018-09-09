@@ -1,0 +1,3 @@
+31-08-2018 16:57:12 com.auth.controller.DemoApiController 89 INFO : CONSENT : CONSENT TAKEN BY USER!
+31-08-2018 16:57:18 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808311657:0001980000:9440324::RequestTime::2018-08-31 16:57:12.221::API Name::2.5
+31-08-2018 16:57:18 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-31 16:57:17.994::Status Code:A200::ResTranscation id:1808311657:0001980000:9440324

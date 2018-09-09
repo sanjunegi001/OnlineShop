@@ -1,0 +1,15 @@
+14-08-2018 10:28:00 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+14-08-2018 10:28:12 com.auth.controller.DemoApiController 349 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808141028:0001980000:3818925::RequestTime::2018-08-14 10:28:00.964::API Name::2.5
+14-08-2018 10:28:12 com.auth.controller.DemoApiController 350 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-14 10:28:12.036::Status Code:A200::ResTranscation id:1808141028:0001980000:3818925
+14-08-2018 11:41:34 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+14-08-2018 11:41:39 com.auth.controller.DemoApiController 343 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808141141:0001980000:9094347::RequestTime::2018-08-14 11:41:34.703::API Name::2.5
+14-08-2018 11:41:39 com.auth.controller.DemoApiController 344 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-14 11:41:39.529::Status Code:A200::ResTranscation id:1808141141:0001980000:9094347
+14-08-2018 11:41:58 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+14-08-2018 11:41:59 com.auth.controller.DemoApiController 730 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::RequestTime::2018-08-14 11:41:58.877::API Name::2.5
+14-08-2018 11:41:59 com.auth.controller.DemoApiController 731 INFO : Response Meta Data Details::Staus Message:Aadhaar Number should be of 12 digits::responsetime::2018-08-14 11:41:59.061::Status Code:A104::ResTranscation id:
+14-08-2018 11:44:25 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+14-08-2018 11:44:26 com.auth.controller.DemoApiController 343 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808141144:0001980000:8584345::RequestTime::2018-08-14 11:44:25.080::API Name::2.5
+14-08-2018 11:44:26 com.auth.controller.DemoApiController 344 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-14 11:44:26.387::Status Code:A200::ResTranscation id:1808141144:0001980000:8584345
+14-08-2018 12:34:39 com.auth.controller.DemoApiController 89 INFO : CONSENT : CONSENT TAKEN BY USER!
+14-08-2018 12:34:40 com.auth.controller.DemoApiController 748 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::RequestTime::2018-08-14 12:34:39.046::API Name::2.5
+14-08-2018 12:34:40 com.auth.controller.DemoApiController 749 INFO : Response Meta Data Details::Staus Message:Aadhaar Number should be of 12 digits::responsetime::2018-08-14 12:34:40.164::Status Code:A104::ResTranscation id:

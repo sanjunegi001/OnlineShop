@@ -1,0 +1,411 @@
+01-08-2018 14:42:36 com.auth.controller.DemoApiController 91 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 14:42:40 com.auth.controller.DemoApiController 544 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::RequestTime::2018-08-01 14:42:36.986::API Name::2.5
+01-08-2018 14:42:40 com.auth.controller.DemoApiController 545 INFO : Response Meta Data Details::Staus Message:no protocol: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Auth uid="696825583304" rc="Y" ac="0001980000" tid="" ver="2.5" txn="1808011442:0001980000:6310979" lk="MLAOdOPehRTYFsKgQdk4Sych344p-7QpBp_A0p0K39vqFXD3TA4_kMs" sa="0001980000" xmlns="http://www.uidai.gov.in/authentication/uid-auth-request/2.0">
+    <Uses pi="y" pa="n" pfa="n" bio="n" bt="" pin="n" otp="n"/>
+    <Meta rdsId="" rdsVer="" dpId="" dc="" mi="" mc=""/>
+    <Skey ci="20191230">oNrWv/NIroUfbokI2cUEMQkCVjoY3Z6gRYOlv/TB9pzVTSChGO9QLzpI4kWAg0XitgYI5W0wO9sthLzVFTpvRwvTVjBm6CHkgCrifL5lGDnJMnzErNL0zGDQouvktvNT4lLrnsAUN/PoWgqlD8fQF+u9Oui9mP+8DJIMy+XsQZV44AMWgNYgSR69TgOv3uH0UCAKst+SGO/pxXwX/KelaA6+GKepFHUq3Pd+gdiEfQaUTfYNAjZg7QfA35TVVNIWBe8VkT+QLyj0d/TkkOL685E82jxPUOznk0tmHzfzT7NQcRU77lWd53XJiCYczGrShxAOVmgM4Rmn6LRd2CqV9A==</Skey>
+    <Data type="X">MjAxOC0wOC0wMVQxNDo0MjozOfmijxFTdft+/HLjv5Bi5uNpwO9k1lfUMttbAY/QgPNWGRp4vtiklEQDEly2KebJfEXtzFA5qRPTD2l1AKr4eyi/oJ4U54h45hs2LYigMnOByC7L/pgExuI0I8Ji+fwU5ZsJ3mH3+y7+pN01jciihQOAOoQB+MxK5TnCO6Dc5su3wao+8C5MXKpVu9S3a5l8cRBFoWRlfU0x8cIXwDGukn/rW3SLrZLdUBJ+qgOfzgtCgMU=</Data>
+    <Hmac>1ITmzJIfjkOfE/VrFZSlilUm28SBHrW/9lIzEDHcMk1bdN/UZ0TTOoiX6SqD/gUD</Hmac>
+</Auth>
+::responsetime::2018-08-01 14:42:40.581::Status Code:A101::ResTranscation id:
+01-08-2018 14:42:40 com.auth.controller.DemoApiController 844 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::::RequestTime::::API Name::2.5
+01-08-2018 14:42:40 com.auth.controller.DemoApiController 845 INFO : Response Meta Data Details::Staus Message:There is something technical issue! Please contact support team::ResponseTime::2018-08-01 14:42:40.739::Status Code:A101::ResTranscation id:
+01-08-2018 14:46:02 com.auth.controller.DemoApiController 91 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 14:46:04 com.auth.controller.DemoApiController 544 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::RequestTime::2018-08-01 14:46:02.026::API Name::2.5
+01-08-2018 14:46:04 com.auth.controller.DemoApiController 545 INFO : Response Meta Data Details::Staus Message:no protocol: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Auth uid="696825583304" rc="Y" ac="0001980000" tid="" ver="2.5" txn="1808011446:0001980000:2063488" lk="MLAOdOPehRTYFsKgQdk4Sych344p-7QpBp_A0p0K39vqFXD3TA4_kMs" sa="0001980000" xmlns="http://www.uidai.gov.in/authentication/uid-auth-request/2.0">
+    <Uses pi="y" pa="n" pfa="n" bio="n" bt="" pin="n" otp="n"/>
+    <Meta rdsId="" rdsVer="" dpId="" dc="" mi="" mc=""/>
+    <Skey ci="20191230">uBFapS6Op2IcfIkfJRDT0lc7N+9sw3UTH75xd8xnazJ6XihPqXPumhDR9MWFb/fajmJqUReWf8fllPAvLfAMQzy2YIj8R8b0ibj0pbk94d/c3o/1rI87XrEf1D5JyYXdJuKpFR071ROO5x5CUK9Ywwo5AA4s0hUrF6TSqGviqMyVYXPb8ZmEOr1F4YNkBIXtTpUw2d5/bXd8QEg4oQPiGSE4Ktf6iSaQBQkod7OLH8o3RE7X++UmHrTQsZOz+TYe1XrdvpBY2gskXqJxwkHBAXZVa8p3QfPz/akD9jeA5Fp20nGU2Grl6ibYG0KqSf7uFGSD7r6Z5L0JUydRiA+lng==</Skey>
+    <Data type="X">MjAxOC0wOC0wMVQxNDo0NjowM6xUgKjMzDNVgjOXw1kbFx0TSJaTFWQRPJvtiPBc8EkqO/ftrkMvZbzJlQ891EeCOrcxlgrqrc7OGFsdrJW56pf1RnZA043MAEYQEiFU2PoxQkm0ToaLbTGCkJVXw1G7j/FnXzjv+1hENBXDlgF+2wgwxDGZ1xfWwkyTmnpP/smISpctlizIcWjlmb2t+4HpJSb3oK7fsa3SKX8Vi2OWdZY3FEWOfn9VVqd1kAoV9FEXmcA=</Data>
+    <Hmac>9vmzITIrZQL48Dgjt5je4ksGyHF7Topo+6V+uqKY8IWsWcukOwidR0DvnKUOGWJe</Hmac>
+</Auth>
+::responsetime::2018-08-01 14:46:04.659::Status Code:A101::ResTranscation id:
+01-08-2018 14:46:04 com.auth.controller.DemoApiController 844 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::::RequestTime::::API Name::2.5
+01-08-2018 14:46:04 com.auth.controller.DemoApiController 845 INFO : Response Meta Data Details::Staus Message:There is something technical issue! Please contact support team::ResponseTime::2018-08-01 14:46:04.700::Status Code:A101::ResTranscation id:
+01-08-2018 14:47:48 com.auth.controller.DemoApiController 91 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 14:47:49 com.auth.controller.DemoApiController 153 INFO : User:::AUTH_TUH::Invalid user
+01-08-2018 14:48:32 com.auth.controller.DemoApiController 91 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 14:48:33 com.auth.controller.DemoApiController 153 INFO : User:::AUTH_TUH::Invalid user
+01-08-2018 14:50:01 com.auth.controller.DemoApiController 91 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 14:50:03 com.auth.controller.DemoApiController 544 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::RequestTime::2018-08-01 14:50:01.089::API Name::2.5
+01-08-2018 14:50:03 com.auth.controller.DemoApiController 545 INFO : Response Meta Data Details::Staus Message:no protocol: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Auth uid="696825583304" rc="Y" ac="0001980000" tid="" ver="2.5" txn="1808011450:0001980000:3581484" lk="MLAOdOPehRTYFsKgQdk4Sych344p-7QpBp_A0p0K39vqFXD3TA4_kMs" sa="0001980000" xmlns="http://www.uidai.gov.in/authentication/uid-auth-request/2.0">
+    <Uses pi="y" pa="n" pfa="n" bio="n" bt="" pin="n" otp="n"/>
+    <Meta rdsId="" rdsVer="" dpId="" dc="" mi="" mc=""/>
+    <Skey ci="20191230">ET/0rJsoiNBkOzthe6CGbYhOqcmmrXGUoFJV3mRjK4JkOghoavj2VOcXNhANhSrsbJb3kWnl4vFb92Lfl+WO0L/UTvCm5Qv0dpEssMYYu9zTFr8dXTOGZKMs9kqsR5TkcySmegam7bmTqAaJUCILWNXeqiPf7x21pr3RKAKsw218hkpTRcK6jcIcDwmpZYp7hMDkTZgJpJixVq2BVIZnd6BiHGVJ63SMq2Po3AJQp7vmRd7DfgfCj6JIZoiZ7ik0xb8TYdAm/3t7evrNI3+59BhuAsGbJLfg44DVU9Vz22CcwQovBXJ84gs/YceVKDicmdaYa3mKR7A0+uYTIOVa+w==</Skey>
+    <Data type="X">MjAxOC0wOC0wMVQxNDo1MDowMhRqJg/xiNNHNQ0UOpH6F9dI5NZuSuzPKZ9d1DH2P5FODNsunkrh2rSDQ2X69+WuqZcHL2+RZWUIBmIZNNi6wN8h2i4v5eP0R0G25Ojf13QX8n/Akv2eanMiM8i4Zn3QQCcI5aIbf2iVr7hUe5tQXTe0Yqv6IpWuiZDpc12qiMIwniBgL2rLrSwAdPNQmkQS7S9jgiq3ejUrIodTAd83AhkkpBb9ct76IRj0MP+YXPWUbqw=</Data>
+    <Hmac>y5CKB5/cCBGzX4ul1i57mSZm+Bl8R9NXYZLSrn9Oxq5YwzRJpssoRDQVlIJ8N7YA</Hmac>
+</Auth>
+::responsetime::2018-08-01 14:50:03.790::Status Code:A101::ResTranscation id:
+01-08-2018 14:50:03 com.auth.controller.DemoApiController 844 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::::RequestTime::::API Name::2.5
+01-08-2018 14:50:03 com.auth.controller.DemoApiController 845 INFO : Response Meta Data Details::Staus Message:There is something technical issue! Please contact support team::ResponseTime::2018-08-01 14:50:03.854::Status Code:A101::ResTranscation id:
+01-08-2018 14:57:43 com.auth.controller.DemoApiController 91 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 14:57:46 com.auth.controller.DemoApiController 547 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::RequestTime::2018-08-01 14:57:43.645::API Name::2.5
+01-08-2018 14:57:46 com.auth.controller.DemoApiController 548 INFO : Response Meta Data Details::Staus Message:no protocol: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Auth uid="696825583304" rc="Y" ac="0001980000" tid="" ver="2.5" txn="1808011457:0001980000:8653783" lk="MLAOdOPehRTYFsKgQdk4Sych344p-7QpBp_A0p0K39vqFXD3TA4_kMs" sa="0001980000" xmlns="http://www.uidai.gov.in/authentication/uid-auth-request/2.0">
+    <Uses pi="y" pa="n" pfa="n" bio="n" bt="" pin="n" otp="n"/>
+    <Meta rdsId="" rdsVer="" dpId="" dc="" mi="" mc=""/>
+    <Skey ci="20191230">ZZFyB7FO7S2UmzCiksHexke25z1c2bYJUOsuM6dgLLmal3IOicwsZ7tJVMe7Og2RE0FDaUZ1pPGTw1UIE/yhg9wtZ6Aak7vRhnAFIeqQ5uHZem6RtPcA/k04Jf/SWwcb2rxLvx4paVfqC6hEbZaBHZAHIL/CH4SO064dz2ja9hWT/StdPSitnWV/4rKPNu95BYO1oQfBFBqzDDcOff/VQLwd016nVuReL1m1F4tbY6xPTLjr+OljAqPvAU+GNDZ/0BRKHu0+BqnGV5Fspq/6F7zOQ3cKT6UDZmvRmr258XyNHlEwB/pLGAmsI3drYmctxKQ9I+CbVnCHZu+psB7jxg==</Skey>
+    <Data type="X">MjAxOC0wOC0wMVQxNDo1Nzo0NJfhw4WY9YW8dZw70601gznKvIc0JqlQvYfTXoCOy32OCr6llpEOQDRlMABX97LA3sSkpvlwYy0u2rdCc9OzviTonLY1hmxr8Xx4H0NOrJJ5r73ayXjuHQ2WqnlsHNeoytJ6Ca1A4AtThqajR+bolDqzucT0Lu7ZAv7h2ijDliDdi4HOWxpPntgEVmmMTvKzXE+/n7iOJHZAL/UOrYyOYL0lEf9V2pomQpW6ZjfD+tMBsDg=</Data>
+    <Hmac>EdENvx4HI50ywH5PezNna3XJcpbw7N1izhrKNy3ARA1NTmolFF0ezswLBfyEosEw</Hmac>
+</Auth>
+::responsetime::2018-08-01 14:57:46.149::Status Code:A101::ResTranscation id:
+01-08-2018 14:57:46 com.auth.controller.DemoApiController 847 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::::RequestTime::::API Name::2.5
+01-08-2018 14:57:46 com.auth.controller.DemoApiController 848 INFO : Response Meta Data Details::Staus Message:There is something technical issue! Please contact support team::ResponseTime::2018-08-01 14:57:46.231::Status Code:A101::ResTranscation id:
+01-08-2018 15:02:00 com.auth.controller.DemoApiController 91 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 15:02:03 com.auth.controller.DemoApiController 551 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::RequestTime::2018-08-01 15:02:00.595::API Name::2.5
+01-08-2018 15:02:03 com.auth.controller.DemoApiController 552 INFO : Response Meta Data Details::Staus Message:no protocol: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Auth uid="696825583304" rc="Y" ac="0001980000" tid="" ver="2.5" txn="1808011502:0001980000:9235156" lk="MLAOdOPehRTYFsKgQdk4Sych344p-7QpBp_A0p0K39vqFXD3TA4_kMs" sa="0001980000" xmlns="http://www.uidai.gov.in/authentication/uid-auth-request/2.0">
+    <Uses pi="y" pa="n" pfa="n" bio="n" bt="" pin="n" otp="n"/>
+    <Meta rdsId="" rdsVer="" dpId="" dc="" mi="" mc=""/>
+    <Skey ci="20191230">RwvNE0lsFPfAJXmQujhrBVZfUy+/GFerKzmfhXiAfiMPD8K1w/wK5gSSyJwrIO2/RuctHSsw+ab0x0JDVipYMrbvFtF4r0SDAhtNmUOGxrZY/Mg+jPfR6H9tgG4cut2c6n+X47Ka0F9bM5c7pTUUxlq/lGh50Q+N3zgG0QdfZXbyc9MasDbO332ZOhcwGKeu2ie60a6EySBcQN/4WQ2TUNsRh/H8vga642IM+0sgDlWxzOCqV6p24w4IVcEZ5k8neFF8o9AL9Np1o1Ls+9ZGZ1TtDiJ3VwM9L5d9iEikZQn6965KPYmBv+D1c6mTjbmtfMMgCaS8vLtpjN4BUr15Zw==</Skey>
+    <Data type="X">MjAxOC0wOC0wMVQxNTowMjowMb/fusjmbxxGEXxy9ubPfNRDaxjOZSYz+Koxx1Px+glPnnaMNIwhBgdFWLB6D/Qam04/3H+790Ko9Vp0Pl/7WDteC70NLT0lQeJTMoEA/unrgE/Xa4RajaajscrNzfi/RkHu0cMK9wZYZ0Qhik16vBH8f/BLekWDssix4Kpfw4jRG12JDhzNsGzrE8ihao+/My7EwS06+7TBkSvzNlkfN8LDYvTzeNYFWYX3fB/IxK8E2ns=</Data>
+    <Hmac>KwLjLWVfKSbJam5h/wCU4aM6aZRgrgS+syLYCSM9h04bGO3YMxLQRMUZ3PzfFwhz</Hmac>
+</Auth>
+::responsetime::2018-08-01 15:02:03.486::Status Code:A101::ResTranscation id:
+01-08-2018 15:02:03 com.auth.controller.DemoApiController 851 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::::RequestTime::::API Name::2.5
+01-08-2018 15:02:03 com.auth.controller.DemoApiController 852 INFO : Response Meta Data Details::Staus Message:There is something technical issue! Please contact support team::ResponseTime::2018-08-01 15:02:03.576::Status Code:A101::ResTranscation id:
+01-08-2018 15:05:01 com.auth.controller.DemoApiController 91 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 15:05:04 com.auth.controller.DemoApiController 551 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::RequestTime::2018-08-01 15:05:01.074::API Name::2.5
+01-08-2018 15:05:04 com.auth.controller.DemoApiController 552 INFO : Response Meta Data Details::Staus Message:no protocol: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Auth uid="696825583304" rc="Y" ac="0001980000" tid="" ver="2.5" txn="1808011505:0001980000:3706577" lk="MLAOdOPehRTYFsKgQdk4Sych344p-7QpBp_A0p0K39vqFXD3TA4_kMs" sa="0001980000" xmlns="http://www.uidai.gov.in/authentication/uid-auth-request/2.0">
+    <Uses pi="y" pa="n" pfa="n" bio="n" bt="" pin="n" otp="n"/>
+    <Meta rdsId="" rdsVer="" dpId="" dc="" mi="" mc=""/>
+    <Skey ci="20191230">UUZvXFMdw8jnasbssiYn/MEIaCM9d3ghmw6bV57deToNSeZD0YpgWqBkI+N1qIAXtncc7Il9YQL5ipAHFEQA9oYZmOf5I6xyphi0JHiZunQNwM3T+PgGPSJ0FQFzmTsH4tYdSi5awxV/14VPKMYlHhq0koys4JAmpcHOx3Nd29ZJAn6uDOwb22LjH4CTGqM1K1Fe9Xu8VTBWK9LXsxg6zW8LKu/7Rme9RoeDSX7jA4+uNeSh9ejjsxn22fxkdSG49oXO8JAmiZLwTaUJYszE8myQohFpPB0fH5qAlGGIMLFVVAINp7BRIrHbxqdygzZNMYjkNaz+ESnMl4HEJOf0gg==</Skey>
+    <Data type="X">MjAxOC0wOC0wMVQxNTowNTowMuoLQ+lAXP/vrDDAue+iTrRk3soF1h/Y75yZEK14OOLI/ocUVvIDUegFcqBWnOClCMXOtGVYyP7fphub39bl8V+5u54ClcsNCm74AwJ4zxCdGlwQG+JDmL4wMt7Jb9IxdCiVEuCR7IrymlKbqD7BiWH21aQ+yP9PhfJW1GF24hIp9W/Brbx315DAlJgIPKEkfSdcMnY1hIreHryv8CV3XXIcDbWXmKWCLTY2D2sregX/PPM=</Data>
+    <Hmac>mc3ZUWIrBx5ivNmdH6WIcD/NrsOiqmZ9lXoG3yRFQb+fvd7x6tDecEsDYMz77pOE</Hmac>
+</Auth>
+::responsetime::2018-08-01 15:05:04.292::Status Code:A101::ResTranscation id:
+01-08-2018 15:05:04 com.auth.controller.DemoApiController 851 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::::RequestTime::::API Name::2.5
+01-08-2018 15:05:04 com.auth.controller.DemoApiController 852 INFO : Response Meta Data Details::Staus Message:There is something technical issue! Please contact support team::ResponseTime::2018-08-01 15:05:04.377::Status Code:A101::ResTranscation id:
+01-08-2018 15:07:44 com.auth.controller.DemoApiController 91 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 15:07:46 com.auth.controller.DemoApiController 553 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::RequestTime::2018-08-01 15:07:44.373::API Name::2.5
+01-08-2018 15:07:46 com.auth.controller.DemoApiController 554 INFO : Response Meta Data Details::Staus Message:no protocol: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Auth uid="696825583304" rc="Y" ac="0001980000" tid="" ver="2.5" txn="1808011507:0001980000:7574664" lk="MLAOdOPehRTYFsKgQdk4Sych344p-7QpBp_A0p0K39vqFXD3TA4_kMs" sa="0001980000" xmlns="http://www.uidai.gov.in/authentication/uid-auth-request/2.0">
+    <Uses pi="y" pa="n" pfa="n" bio="n" bt="" pin="n" otp="n"/>
+    <Meta rdsId="" rdsVer="" dpId="" dc="" mi="" mc=""/>
+    <Skey ci="20191230">V1KUjKZ2l+44g1AJ/f1Pp3j6bIU+HZLnBghqbwuENFgOsQUsJWGXyYTwn88wEBIVpOkkHii+s3AtehEXiA7Kl1A4/dXnI1ePBMnHRwsqGLFF0R9fZ2JwNeNoeP2Fd2H/fKKnQ/aVN8+0yrTsV9kB3AkiXz1EKaLzZ4o1n3rlMx9XTKFC/YXKUOCiUCEU6IzAAW35QXaO7CmUHQ/LkPNekJmHogqKRT9VuvSLdE1s5Z/35roftF7m1iV8w3gfjt49lt2aS3DgpZI1vzXADD9mX16ba/FgZ52bvUb7SJAr/W5ii6tTu1uIbGrgWKbovbrcMgMXPhiOGzJvNu8l9B7XSQ==</Skey>
+    <Data type="X">MjAxOC0wOC0wMVQxNTowNzo0NUc1d3X29PTynGqOKt8sg4ec58OuOZM/2sQ3X5ZK9yTh2ZTyBQ9vrvbw8fSpY0O7l9nKbHXaCakKoHy+MGYZXGOkN+ZbuVPESx6arkayXKM2SobTPkUWS5dsSF0lKNqe/dshcECjyPCmj2yQ/MqeqYO9nCkcp9mrghmCyLblkhxcFmYHxCdKJ5VMrtlKuvtt8E7i21bFHNS26AMCSuIg56t+2xpfOHoeFhPFzCCnoFEiZsk=</Data>
+    <Hmac>nQFUEAmvXAaokpswELopLDLYalyWDXyr3HtnHI/JR3LaICSMgil4/wmPbM/VmCJa</Hmac>
+</Auth>
+::responsetime::2018-08-01 15:07:46.674::Status Code:A101::ResTranscation id:
+01-08-2018 15:07:46 com.auth.controller.DemoApiController 853 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::::RequestTime::::API Name::2.5
+01-08-2018 15:07:46 com.auth.controller.DemoApiController 854 INFO : Response Meta Data Details::Staus Message:There is something technical issue! Please contact support team::ResponseTime::2018-08-01 15:07:46.751::Status Code:A101::ResTranscation id:
+01-08-2018 15:08:02 com.auth.controller.DemoApiController 91 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 15:08:02 com.auth.controller.DemoApiController 553 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::RequestTime::2018-08-01 15:08:02.081::API Name::2.5
+01-08-2018 15:08:02 com.auth.controller.DemoApiController 554 INFO : Response Meta Data Details::Staus Message:no protocol: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Auth uid="696825583304" rc="Y" ac="0001980000" tid="" ver="2.5" txn="1808011508:0001980000:5403907" lk="MLAOdOPehRTYFsKgQdk4Sych344p-7QpBp_A0p0K39vqFXD3TA4_kMs" sa="0001980000" xmlns="http://www.uidai.gov.in/authentication/uid-auth-request/2.0">
+    <Uses pi="y" pa="n" pfa="n" bio="n" bt="" pin="n" otp="n"/>
+    <Meta rdsId="" rdsVer="" dpId="" dc="" mi="" mc=""/>
+    <Skey ci="20191230">Ed026KSnykfyhSULtLrUIGqU38uGazyk9FHfSSFu/jouIfc1j+vbuaJVNUymZTtTkZjn9Rkq9Gyi8TcRBqt9YSDUEo8+AGuvrgruuiZUemKfHahuMz4mAQK3KTWDPYuyQRGTHkRNAR2ZgEuETSu7Js8j7jFHHzN4gdo82Tp4CsTvRB6N93pEJpgLsAn+ZJ1y3Q7N82OJKqL8jOatIa3EyIkz2qzK4586+lLFzntQ61ZQsLo6x8SjS4fAjdr5toU8LL6Xw9ci+krsDmAkIUIE/Q295srmMwsxBf14dJ9ubHUk3MzBdnAZRTnbZJE5zjImo/5xlr29Y1l4uULik4PWqw==</Skey>
+    <Data type="X">MjAxOC0wOC0wMVQxNTowODowMj/uZtrpI3MdeWdgLbgLAy8uEIYvoSBgCHJYBHzNKh6Bvec9C1CaVrXzMIjqmgURBjD87hgDbebLFcp89pJur9gN0IOIs4jFi4WvIJ+e56QjFgUatpIkKztIOM8T4xnAche8Rhc11a7Qrc9cV+7bX31ryrYS/2k0uuFrDGkNZisrTvrZJAC1Xg2ZoHruTOD94SwkZqUCPU2OzMbQoKQ6pIMgyroyR6OZTVmW+prhWssSpvc=</Data>
+    <Hmac>ttZrPkKwqDbX7XGx3pbH9aKCgVJgXaxJba8yXaGnAu+zo/xnLe4UKvn7wK3ahN82</Hmac>
+</Auth>
+::responsetime::2018-08-01 15:08:02.265::Status Code:A101::ResTranscation id:
+01-08-2018 15:08:02 com.auth.controller.DemoApiController 853 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::::RequestTime::::API Name::2.5
+01-08-2018 15:08:02 com.auth.controller.DemoApiController 854 INFO : Response Meta Data Details::Staus Message:There is something technical issue! Please contact support team::ResponseTime::2018-08-01 15:08:02.315::Status Code:A101::ResTranscation id:
+01-08-2018 15:11:27 com.auth.controller.DemoApiController 91 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 15:11:29 com.auth.controller.DemoApiController 555 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::RequestTime::2018-08-01 15:11:27.040::API Name::2.5
+01-08-2018 15:11:29 com.auth.controller.DemoApiController 556 INFO : Response Meta Data Details::Staus Message:no protocol: <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Auth uid="696825583304" rc="Y" ac="0001980000" tid="" ver="2.5" txn="1808011511:0001980000:5372317" lk="MLAOdOPehRTYFsKgQdk4Sych344p-7QpBp_A0p0K39vqFXD3TA4_kMs" sa="0001980000" xmlns="http://www.uidai.gov.in/authentication/uid-auth-request/2.0">
+    <Uses pi="y" pa="n" pfa="n" bio="n" bt="" pin="n" otp="n"/>
+    <Meta rdsId="" rdsVer="" dpId="" dc="" mi="" mc=""/>
+    <Skey ci="20191230">m+L5fKCPwtGb90m6IIigRAjG99S+CWoeeWDfBechR2S0A7burn5pw6pYguAvXneLvMR3zvhgZx4oU1W4ib7SfreS3p91SxNbmQKAFbsRd7Rq97DCVxWTuMwZAHjwJxhrcpzKm4VEKo7KhYJzLVqElLgvifWN4lxv8j1jE4O/Py5YiK5r0hBIoQCnJAbp0ApBbo+6G6USbw9UyUkJh2+YNZGbdv866ttgdB177DSmbj5V5QszkQsRXFuw3IikA3Qyy+sOjkm2my3Kx9IeHu3QopobQZxnrVYr3xjQkqz8Z3Jr0cImNUMYY9DqClhrTR0zb4Pd7f67h5Z34aTdaMokmQ==</Skey>
+    <Data type="X">MjAxOC0wOC0wMVQxNToxMToyOFjPJfoh7l83FfVQ145AK86sM0pkrL8a8ohy5bcrf29s6sSPHSJj8NIsxIOzOi0Hxc0KQFZm5oomVA0sG4rPaBFia0e1l6JAfINxmpLwM5J0qI7frdhTk/AEJcDjQchkBGgKM+LJOn43bKlZiAbUKcuTpHQxln+OROzq2oe2see6sU2W5djX+Tcnj1RiX4JQxqU8hnCT5hfQvtrBDyltXmqdZFNnN9WHVX2ITseuX8K++7c=</Data>
+    <Hmac>PRgUfhtaAjRZ3D185PtUZv4zz5lSJ1/5De+ynDlw1KUZCKfR8vaFMcKB+vXsLLYT</Hmac>
+</Auth>
+::responsetime::2018-08-01 15:11:29.701::Status Code:A101::ResTranscation id:
+01-08-2018 15:11:29 com.auth.controller.DemoApiController 855 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::ReqTransactionId::::RequestTime::::API Name::2.5
+01-08-2018 15:11:29 com.auth.controller.DemoApiController 856 INFO : Response Meta Data Details::Staus Message:There is something technical issue! Please contact support team::ResponseTime::2018-08-01 15:11:29.772::Status Code:A101::ResTranscation id:
+01-08-2018 15:13:25 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 15:13:30 com.auth.controller.DemoApiController 354 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::::RequestTime::2018-08-01 15:13:25.982::API Name::2.5
+01-08-2018 15:13:30 com.auth.controller.DemoApiController 355 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 15:13:30.472::Status Code:A200::ResTranscation id:1808011513:0001980000:4383056
+01-08-2018 15:14:06 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 15:14:08 com.auth.controller.DemoApiController 354 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::::RequestTime::2018-08-01 15:14:06.899::API Name::2.5
+01-08-2018 15:14:08 com.auth.controller.DemoApiController 355 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 15:14:08.246::Status Code:A200::ResTranscation id:1808011514:0001980000:2354508
+01-08-2018 15:14:10 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 15:14:11 com.auth.controller.DemoApiController 354 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::::RequestTime::2018-08-01 15:14:10.523::API Name::2.5
+01-08-2018 15:14:11 com.auth.controller.DemoApiController 355 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 15:14:11.645::Status Code:A200::ResTranscation id:1808011514:0001980000:3080662
+01-08-2018 15:14:13 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 15:14:14 com.auth.controller.DemoApiController 354 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::::RequestTime::2018-08-01 15:14:13.175::API Name::2.5
+01-08-2018 15:14:14 com.auth.controller.DemoApiController 355 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 15:14:14.374::Status Code:A200::ResTranscation id:1808011514:0001980000:1045151
+01-08-2018 15:14:15 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 15:14:16 com.auth.controller.DemoApiController 354 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::::RequestTime::2018-08-01 15:14:15.719::API Name::2.5
+01-08-2018 15:14:16 com.auth.controller.DemoApiController 355 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 15:14:16.828::Status Code:A200::ResTranscation id:1808011514:0001980000:8520911
+01-08-2018 15:14:18 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 15:14:19 com.auth.controller.DemoApiController 354 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::::RequestTime::2018-08-01 15:14:18.248::API Name::2.5
+01-08-2018 15:14:19 com.auth.controller.DemoApiController 355 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 15:14:19.596::Status Code:A200::ResTranscation id:1808011514:0001980000:2540436
+01-08-2018 15:14:21 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 15:14:36 com.auth.controller.DemoApiController 553 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::RequestTime::2018-08-01 15:14:21.218::API Name::2.5
+01-08-2018 15:14:36 com.auth.controller.DemoApiController 554 INFO : Response Meta Data Details::Staus Message:Remote host closed connection during handshake::responsetime::2018-08-01 15:14:36.451::Status Code:A101::ResTranscation id:
+01-08-2018 15:16:31 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 15:16:36 com.auth.controller.DemoApiController 354 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011516:0001980000:5138385::RequestTime::2018-08-01 15:16:31.817::API Name::2.5
+01-08-2018 15:16:36 com.auth.controller.DemoApiController 355 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 15:16:36.607::Status Code:A200::ResTranscation id:1808011516:0001980000:5138385
+01-08-2018 15:16:38 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 15:16:40 com.auth.controller.DemoApiController 354 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011516:0001980000:2963621::RequestTime::2018-08-01 15:16:38.910::API Name::2.5
+01-08-2018 15:16:40 com.auth.controller.DemoApiController 355 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 15:16:40.097::Status Code:A200::ResTranscation id:1808011516:0001980000:2963621
+01-08-2018 15:16:41 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 15:16:57 com.auth.controller.DemoApiController 553 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::RequestTime::2018-08-01 15:16:41.808::API Name::2.5
+01-08-2018 15:16:57 com.auth.controller.DemoApiController 554 INFO : Response Meta Data Details::Staus Message:Remote host closed connection during handshake::responsetime::2018-08-01 15:16:57.066::Status Code:A101::ResTranscation id:
+01-08-2018 16:22:05 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:22:06 com.auth.controller.DemoApiController 538 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::RequestTime::2018-08-01 16:22:05.081::API Name::2.5
+01-08-2018 16:22:06 com.auth.controller.DemoApiController 539 INFO : Response Meta Data Details::Staus Message:authservice.csccloud.in::responsetime::2018-08-01 16:22:06.125::Status Code:A101::ResTranscation id:
+01-08-2018 16:22:29 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:22:31 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011622:0001980000:9086696::RequestTime::2018-08-01 16:22:29.595::API Name::2.5
+01-08-2018 16:22:31 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:22:31.010::Status Code:A200::ResTranscation id:1808011622:0001980000:9086696
+01-08-2018 16:23:37 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:23:38 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011623:0001980000:4455395::RequestTime::2018-08-01 16:23:37.010::API Name::2.5
+01-08-2018 16:23:38 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:23:38.629::Status Code:A200::ResTranscation id:1808011623:0001980000:4455395
+01-08-2018 16:24:19 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:24:20 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011624:0001980000:6483228::RequestTime::2018-08-01 16:24:19.114::API Name::2.5
+01-08-2018 16:24:20 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:24:20.833::Status Code:A200::ResTranscation id:1808011624:0001980000:6483228
+01-08-2018 16:24:39 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:24:40 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011624:0001980000:9261945::RequestTime::2018-08-01 16:24:39.264::API Name::2.5
+01-08-2018 16:24:40 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:24:40.790::Status Code:A200::ResTranscation id:1808011624:0001980000:9261945
+01-08-2018 16:24:42 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:24:57 com.auth.controller.DemoApiController 538 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::RequestTime::2018-08-01 16:24:42.269::API Name::2.5
+01-08-2018 16:24:57 com.auth.controller.DemoApiController 539 INFO : Response Meta Data Details::Staus Message:Remote host closed connection during handshake::responsetime::2018-08-01 16:24:57.890::Status Code:A101::ResTranscation id:
+01-08-2018 16:27:45 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:27:46 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011627:0001980000:3377378::RequestTime::2018-08-01 16:27:45.064::API Name::2.5
+01-08-2018 16:27:46 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:27:46.491::Status Code:A200::ResTranscation id:1808011627:0001980000:3377378
+01-08-2018 16:28:03 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:28:05 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011628:0001980000:2276368::RequestTime::2018-08-01 16:28:03.505::API Name::2.5
+01-08-2018 16:28:05 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:28:05.527::Status Code:A200::ResTranscation id:1808011628:0001980000:2276368
+01-08-2018 16:28:11 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:28:13 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011628:0001980000:4272560::RequestTime::2018-08-01 16:28:11.819::API Name::2.5
+01-08-2018 16:28:13 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:28:13.231::Status Code:A200::ResTranscation id:1808011628:0001980000:4272560
+01-08-2018 16:30:02 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:30:04 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011630:0001980000:3373215::RequestTime::2018-08-01 16:30:02.261::API Name::2.5
+01-08-2018 16:30:04 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:30:04.013::Status Code:A200::ResTranscation id:1808011630:0001980000:3373215
+01-08-2018 16:30:05 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:30:07 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011630:0001980000:6213327::RequestTime::2018-08-01 16:30:05.842::API Name::2.5
+01-08-2018 16:30:07 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:30:07.604::Status Code:A200::ResTranscation id:1808011630:0001980000:6213327
+01-08-2018 16:30:08 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:30:24 com.auth.controller.DemoApiController 538 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::RequestTime::2018-08-01 16:30:08.740::API Name::2.5
+01-08-2018 16:30:24 com.auth.controller.DemoApiController 539 INFO : Response Meta Data Details::Staus Message:Remote host closed connection during handshake::responsetime::2018-08-01 16:30:24.268::Status Code:A101::ResTranscation id:
+01-08-2018 16:31:16 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:31:27 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011631:0001980000:2382234::RequestTime::2018-08-01 16:31:16.132::API Name::2.5
+01-08-2018 16:31:27 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:31:27.116::Status Code:A200::ResTranscation id:1808011631:0001980000:2382234
+01-08-2018 16:32:15 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:32:17 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011632:0001980000:7168045::RequestTime::2018-08-01 16:32:15.786::API Name::2.5
+01-08-2018 16:32:17 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:32:17.739::Status Code:A200::ResTranscation id:1808011632:0001980000:7168045
+01-08-2018 16:32:25 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:32:26 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011632:0001980000:7597900::RequestTime::2018-08-01 16:32:25.592::API Name::2.5
+01-08-2018 16:32:26 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:32:26.948::Status Code:A200::ResTranscation id:1808011632:0001980000:7597900
+01-08-2018 16:32:31 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:32:32 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011632:0001980000:6768705::RequestTime::2018-08-01 16:32:31.035::API Name::2.5
+01-08-2018 16:32:32 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:32:32.411::Status Code:A200::ResTranscation id:1808011632:0001980000:6768705
+01-08-2018 16:32:33 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:32:49 com.auth.controller.DemoApiController 538 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::RequestTime::2018-08-01 16:32:33.659::API Name::2.5
+01-08-2018 16:32:49 com.auth.controller.DemoApiController 539 INFO : Response Meta Data Details::Staus Message:Remote host closed connection during handshake::responsetime::2018-08-01 16:32:49.379::Status Code:A101::ResTranscation id:
+01-08-2018 16:32:59 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:33:14 com.auth.controller.DemoApiController 538 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::RequestTime::2018-08-01 16:32:59.137::API Name::2.5
+01-08-2018 16:33:14 com.auth.controller.DemoApiController 539 INFO : Response Meta Data Details::Staus Message:Remote host closed connection during handshake::responsetime::2018-08-01 16:33:14.640::Status Code:A101::ResTranscation id:
+01-08-2018 16:34:14 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:34:16 com.auth.controller.DemoApiController 447 INFO : User:::null::Invalid SubAUA
+01-08-2018 16:34:19 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:34:38 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011634:0001980000:5060912::RequestTime::2018-08-01 16:34:19.487::API Name::2.5
+01-08-2018 16:34:38 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:34:38.841::Status Code:A200::ResTranscation id:1808011634:0001980000:5060912
+01-08-2018 16:34:45 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:35:19 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011634:0001980000:3821483::RequestTime::2018-08-01 16:34:45.561::API Name::2.5
+01-08-2018 16:35:19 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:35:19.480::Status Code:A200::ResTranscation id:1808011634:0001980000:3821483
+01-08-2018 16:36:02 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:36:04 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011636:0001980000:6594521::RequestTime::2018-08-01 16:36:02.955::API Name::2.5
+01-08-2018 16:36:04 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:36:04.482::Status Code:A200::ResTranscation id:1808011636:0001980000:6594521
+01-08-2018 16:36:07 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:36:10 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011636:0001980000:8817966::RequestTime::2018-08-01 16:36:07.810::API Name::2.5
+01-08-2018 16:36:10 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:36:10.528::Status Code:A200::ResTranscation id:1808011636:0001980000:8817966
+01-08-2018 16:36:11 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:36:13 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011636:0001980000:3412171::RequestTime::2018-08-01 16:36:11.521::API Name::2.5
+01-08-2018 16:36:13 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:36:13.695::Status Code:A200::ResTranscation id:1808011636:0001980000:3412171
+01-08-2018 16:36:14 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:36:16 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011636:0001980000:6521140::RequestTime::2018-08-01 16:36:14.714::API Name::2.5
+01-08-2018 16:36:16 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:36:16.436::Status Code:A200::ResTranscation id:1808011636:0001980000:6521140
+01-08-2018 16:36:29 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:36:31 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011636:0001980000:6149964::RequestTime::2018-08-01 16:36:29.430::API Name::2.5
+01-08-2018 16:36:31 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:36:31.073::Status Code:A200::ResTranscation id:1808011636:0001980000:6149964
+01-08-2018 16:36:33 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:36:34 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011636:0001980000:9156544::RequestTime::2018-08-01 16:36:33.012::API Name::2.5
+01-08-2018 16:36:34 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:36:34.637::Status Code:A200::ResTranscation id:1808011636:0001980000:9156544
+01-08-2018 16:36:35 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:36:37 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011636:0001980000:9861506::RequestTime::2018-08-01 16:36:35.861::API Name::2.5
+01-08-2018 16:36:37 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:36:37.361::Status Code:A200::ResTranscation id:1808011636:0001980000:9861506
+01-08-2018 16:36:38 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:36:40 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011636:0001980000:5807780::RequestTime::2018-08-01 16:36:38.781::API Name::2.5
+01-08-2018 16:36:40 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:36:40.553::Status Code:A200::ResTranscation id:1808011636:0001980000:5807780
+01-08-2018 16:36:41 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:36:42 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011636:0001980000:4164378::RequestTime::2018-08-01 16:36:41.228::API Name::2.5
+01-08-2018 16:36:42 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:36:42.725::Status Code:A200::ResTranscation id:1808011636:0001980000:4164378
+01-08-2018 16:36:45 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:36:46 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011636:0001980000:3170470::RequestTime::2018-08-01 16:36:45.051::API Name::2.5
+01-08-2018 16:36:46 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:36:46.593::Status Code:A200::ResTranscation id:1808011636:0001980000:3170470
+01-08-2018 16:36:47 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:36:49 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011636:0001980000:3982308::RequestTime::2018-08-01 16:36:47.674::API Name::2.5
+01-08-2018 16:36:49 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:36:49.217::Status Code:A200::ResTranscation id:1808011636:0001980000:3982308
+01-08-2018 16:36:51 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:36:53 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011636:0001980000:1809373::RequestTime::2018-08-01 16:36:51.434::API Name::2.5
+01-08-2018 16:36:53 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:36:53.108::Status Code:A200::ResTranscation id:1808011636:0001980000:1809373
+01-08-2018 16:36:55 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:36:57 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011636:0001980000:5934996::RequestTime::2018-08-01 16:36:55.934::API Name::2.5
+01-08-2018 16:36:57 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:36:57.694::Status Code:A200::ResTranscation id:1808011636:0001980000:5934996
+01-08-2018 16:37:10 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:37:12 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011637:0001980000:9885056::RequestTime::2018-08-01 16:37:10.668::API Name::2.5
+01-08-2018 16:37:12 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:37:11.998::Status Code:A200::ResTranscation id:1808011637:0001980000:9885056
+01-08-2018 16:37:13 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:37:14 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011637:0001980000:4299582::RequestTime::2018-08-01 16:37:13.393::API Name::2.5
+01-08-2018 16:37:14 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:37:14.842::Status Code:A200::ResTranscation id:1808011637:0001980000:4299582
+01-08-2018 16:37:16 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:37:17 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011637:0001980000:3272054::RequestTime::2018-08-01 16:37:16.301::API Name::2.5
+01-08-2018 16:37:17 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:37:17.498::Status Code:A200::ResTranscation id:1808011637:0001980000:3272054
+01-08-2018 16:37:18 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:37:20 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011637:0001980000:6021710::RequestTime::2018-08-01 16:37:18.782::API Name::2.5
+01-08-2018 16:37:20 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:37:20.327::Status Code:A200::ResTranscation id:1808011637:0001980000:6021710
+01-08-2018 16:37:21 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:37:22 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011637:0001980000:5331585::RequestTime::2018-08-01 16:37:21.522::API Name::2.5
+01-08-2018 16:37:22 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:37:22.899::Status Code:A200::ResTranscation id:1808011637:0001980000:5331585
+01-08-2018 16:37:23 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:37:25 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011637:0001980000:5323084::RequestTime::2018-08-01 16:37:23.975::API Name::2.5
+01-08-2018 16:37:25 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:37:25.137::Status Code:A200::ResTranscation id:1808011637:0001980000:5323084
+01-08-2018 16:37:26 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:37:27 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011637:0001980000:7294366::RequestTime::2018-08-01 16:37:26.320::API Name::2.5
+01-08-2018 16:37:27 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:37:27.842::Status Code:A200::ResTranscation id:1808011637:0001980000:7294366
+01-08-2018 16:37:29 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:37:30 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011637:0001980000:1947416::RequestTime::2018-08-01 16:37:29.121::API Name::2.5
+01-08-2018 16:37:30 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:37:30.458::Status Code:A200::ResTranscation id:1808011637:0001980000:1947416
+01-08-2018 16:37:31 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:37:33 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011637:0001980000:1421894::RequestTime::2018-08-01 16:37:31.834::API Name::2.5
+01-08-2018 16:37:33 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:37:33.509::Status Code:A200::ResTranscation id:1808011637:0001980000:1421894
+01-08-2018 16:37:34 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:37:36 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011637:0001980000:5247017::RequestTime::2018-08-01 16:37:34.961::API Name::2.5
+01-08-2018 16:37:36 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:37:36.312::Status Code:A200::ResTranscation id:1808011637:0001980000:5247017
+01-08-2018 16:37:37 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:37:39 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011637:0001980000:9469784::RequestTime::2018-08-01 16:37:37.763::API Name::2.5
+01-08-2018 16:37:39 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:37:39.200::Status Code:A200::ResTranscation id:1808011637:0001980000:9469784
+01-08-2018 16:37:43 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:37:44 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011637:0001980000:9955396::RequestTime::2018-08-01 16:37:43.583::API Name::2.5
+01-08-2018 16:37:44 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:37:44.789::Status Code:A200::ResTranscation id:1808011637:0001980000:9955396
+01-08-2018 16:37:46 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:37:47 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011637:0001980000:8799541::RequestTime::2018-08-01 16:37:46.104::API Name::2.5
+01-08-2018 16:37:47 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:37:47.838::Status Code:A200::ResTranscation id:1808011637:0001980000:8799541
+01-08-2018 16:37:49 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:37:51 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011637:0001980000:8262506::RequestTime::2018-08-01 16:37:49.107::API Name::2.5
+01-08-2018 16:37:51 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:37:51.132::Status Code:A200::ResTranscation id:1808011637:0001980000:8262506
+01-08-2018 16:37:52 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:37:53 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011637:0001980000:1053870::RequestTime::2018-08-01 16:37:52.207::API Name::2.5
+01-08-2018 16:37:53 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:37:53.711::Status Code:A200::ResTranscation id:1808011637:0001980000:1053870
+01-08-2018 16:37:54 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:37:56 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011637:0001980000:7432520::RequestTime::2018-08-01 16:37:54.784::API Name::2.5
+01-08-2018 16:37:56 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:37:56.401::Status Code:A200::ResTranscation id:1808011637:0001980000:7432520
+01-08-2018 16:37:57 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:37:59 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011637:0001980000:8106690::RequestTime::2018-08-01 16:37:57.631::API Name::2.5
+01-08-2018 16:37:59 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:37:59.700::Status Code:A200::ResTranscation id:1808011637:0001980000:8106690
+01-08-2018 16:38:00 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:38:03 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011638:0001980000:8730783::RequestTime::2018-08-01 16:38:00.951::API Name::2.5
+01-08-2018 16:38:03 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:38:03.161::Status Code:A200::ResTranscation id:1808011638:0001980000:8730783
+01-08-2018 16:38:04 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:38:06 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011638:0001980000:8957017::RequestTime::2018-08-01 16:38:04.875::API Name::2.5
+01-08-2018 16:38:06 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:38:06.660::Status Code:A200::ResTranscation id:1808011638:0001980000:8957017
+01-08-2018 16:38:07 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:38:09 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011638:0001980000:2486942::RequestTime::2018-08-01 16:38:07.855::API Name::2.5
+01-08-2018 16:38:09 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:38:09.720::Status Code:A200::ResTranscation id:1808011638:0001980000:2486942
+01-08-2018 16:38:11 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:38:12 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011638:0001980000:9993510::RequestTime::2018-08-01 16:38:11.048::API Name::2.5
+01-08-2018 16:38:12 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:38:12.651::Status Code:A200::ResTranscation id:1808011638:0001980000:9993510
+01-08-2018 16:38:14 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:38:16 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011638:0001980000:8173071::RequestTime::2018-08-01 16:38:14.042::API Name::2.5
+01-08-2018 16:38:16 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:38:16.505::Status Code:A200::ResTranscation id:1808011638:0001980000:8173071
+01-08-2018 16:38:56 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:38:57 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011638:0001980000:4204506::RequestTime::2018-08-01 16:38:56.005::API Name::2.5
+01-08-2018 16:38:57 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:38:57.585::Status Code:A200::ResTranscation id:1808011638:0001980000:4204506
+01-08-2018 16:38:58 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:39:01 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011638:0001980000:1955116::RequestTime::2018-08-01 16:38:58.760::API Name::2.5
+01-08-2018 16:39:01 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:39:00.959::Status Code:A200::ResTranscation id:1808011638:0001980000:1955116
+01-08-2018 16:39:02 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:39:04 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011639:0001980000:5240854::RequestTime::2018-08-01 16:39:02.533::API Name::2.5
+01-08-2018 16:39:04 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:39:04.494::Status Code:A200::ResTranscation id:1808011639:0001980000:5240854
+01-08-2018 16:39:36 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:39:37 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011639:0001980000:8147362::RequestTime::2018-08-01 16:39:36.266::API Name::2.5
+01-08-2018 16:39:37 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:39:37.822::Status Code:A200::ResTranscation id:1808011639:0001980000:8147362
+01-08-2018 16:39:39 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:39:40 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011639:0001980000:7002727::RequestTime::2018-08-01 16:39:39.366::API Name::2.5
+01-08-2018 16:39:40 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:39:40.627::Status Code:A200::ResTranscation id:1808011639:0001980000:7002727
+01-08-2018 16:39:41 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:39:53 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011639:0001980000:8805309::RequestTime::2018-08-01 16:39:41.689::API Name::2.5
+01-08-2018 16:39:53 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:39:53.246::Status Code:A200::ResTranscation id:1808011639:0001980000:8805309
+01-08-2018 16:40:00 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:40:04 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011640:0001980000:1567172::RequestTime::2018-08-01 16:40:00.163::API Name::2.5
+01-08-2018 16:40:04 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:40:03.964::Status Code:A200::ResTranscation id:1808011640:0001980000:1567172
+01-08-2018 16:40:05 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:40:08 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011640:0001980000:4602839::RequestTime::2018-08-01 16:40:05.373::API Name::2.5
+01-08-2018 16:40:08 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:40:08.229::Status Code:A200::ResTranscation id:1808011640:0001980000:4602839
+01-08-2018 16:40:12 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:40:14 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011640:0001980000:7703687::RequestTime::2018-08-01 16:40:12.352::API Name::2.5
+01-08-2018 16:40:14 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:40:13.963::Status Code:A200::ResTranscation id:1808011640:0001980000:7703687
+01-08-2018 16:40:16 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:40:18 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011640:0001980000:5503447::RequestTime::2018-08-01 16:40:16.638::API Name::2.5
+01-08-2018 16:40:18 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:40:18.281::Status Code:A200::ResTranscation id:1808011640:0001980000:5503447
+01-08-2018 16:46:09 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:46:11 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011646:0001980000:9047046::RequestTime::2018-08-01 16:46:09.563::API Name::2.5
+01-08-2018 16:46:11 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:46:11.317::Status Code:A200::ResTranscation id:1808011646:0001980000:9047046
+01-08-2018 16:46:13 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:46:14 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011646:0001980000:3229418::RequestTime::2018-08-01 16:46:13.188::API Name::2.5
+01-08-2018 16:46:14 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:46:14.790::Status Code:A200::ResTranscation id:1808011646:0001980000:3229418
+01-08-2018 16:46:15 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:46:18 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011646:0001980000:3769543::RequestTime::2018-08-01 16:46:15.896::API Name::2.5
+01-08-2018 16:46:18 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:46:18.095::Status Code:A200::ResTranscation id:1808011646:0001980000:3769543
+01-08-2018 16:46:19 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:46:20 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011646:0001980000:8412004::RequestTime::2018-08-01 16:46:19.155::API Name::2.5
+01-08-2018 16:46:20 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:46:20.586::Status Code:A200::ResTranscation id:1808011646:0001980000:8412004
+01-08-2018 16:46:21 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:46:25 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011646:0001980000:4581462::RequestTime::2018-08-01 16:46:21.789::API Name::2.5
+01-08-2018 16:46:25 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:46:25.349::Status Code:A200::ResTranscation id:1808011646:0001980000:4581462
+01-08-2018 16:46:26 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:46:31 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011646:0001980000:7652901::RequestTime::2018-08-01 16:46:26.913::API Name::2.5
+01-08-2018 16:46:31 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:46:31.252::Status Code:A200::ResTranscation id:1808011646:0001980000:7652901
+01-08-2018 16:46:32 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:46:37 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011646:0001980000:3304668::RequestTime::2018-08-01 16:46:32.786::API Name::2.5
+01-08-2018 16:46:37 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:46:37.823::Status Code:A200::ResTranscation id:1808011646:0001980000:3304668
+01-08-2018 16:46:39 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:46:41 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011646:0001980000:7703770::RequestTime::2018-08-01 16:46:39.388::API Name::2.5
+01-08-2018 16:46:41 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:46:41.297::Status Code:A200::ResTranscation id:1808011646:0001980000:7703770
+01-08-2018 16:46:42 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:46:45 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011646:0001980000:1528836::RequestTime::2018-08-01 16:46:42.463::API Name::2.5
+01-08-2018 16:46:45 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:46:45.398::Status Code:A200::ResTranscation id:1808011646:0001980000:1528836
+01-08-2018 16:46:47 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:46:49 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011646:0001980000:1065508::RequestTime::2018-08-01 16:46:47.289::API Name::2.5
+01-08-2018 16:46:49 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:46:48.987::Status Code:A200::ResTranscation id:1808011646:0001980000:1065508
+01-08-2018 16:46:50 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:46:52 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011646:0001980000:2844884::RequestTime::2018-08-01 16:46:50.855::API Name::2.5
+01-08-2018 16:46:52 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:46:52.326::Status Code:A200::ResTranscation id:1808011646:0001980000:2844884
+01-08-2018 16:46:54 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:46:56 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011646:0001980000:8589724::RequestTime::2018-08-01 16:46:54.853::API Name::2.5
+01-08-2018 16:46:56 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:46:56.249::Status Code:A200::ResTranscation id:1808011646:0001980000:8589724
+01-08-2018 16:46:57 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:47:00 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011646:0001980000:4431042::RequestTime::2018-08-01 16:46:57.541::API Name::2.5
+01-08-2018 16:47:00 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:47:00.482::Status Code:A200::ResTranscation id:1808011646:0001980000:4431042
+01-08-2018 16:47:01 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:47:03 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011647:0001980000:3027027::RequestTime::2018-08-01 16:47:01.620::API Name::2.5
+01-08-2018 16:47:03 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:47:03.259::Status Code:A200::ResTranscation id:1808011647:0001980000:3027027
+01-08-2018 16:47:05 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+01-08-2018 16:47:06 com.auth.controller.DemoApiController 344 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808011647:0001980000:8871766::RequestTime::2018-08-01 16:47:05.121::API Name::2.5
+01-08-2018 16:47:06 com.auth.controller.DemoApiController 345 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-01 16:47:06.592::Status Code:A200::ResTranscation id:1808011647:0001980000:8871766
+01-08-2018 17:34:05 com.auth.controller.HomeController 97 INFO : User Login ::AUTH_TUH
+01-08-2018 17:36:01 com.auth.controller.HomeController 97 INFO : User Login ::AUTH_TUH
+01-08-2018 17:36:59 com.auth.controller.HomeController 97 INFO : User Login ::AUTH_TUH
+01-08-2018 17:39:31 com.auth.controller.HomeController 97 INFO : User Login ::AUTH_TUH
+01-08-2018 17:45:50 com.auth.controller.HomeController 139 INFO : CONSENT: CONSENT TAKEN BY USER
+01-08-2018 17:45:50 com.auth.controller.HomeController 140 INFO : User Login For Demo Auth ::AUTH_TUH
+01-08-2018 17:45:55 com.auth.controller.HomeController 408 INFO : Request Details:Aadhaar Number::696825583304::Verify By::AUTH_TUH
+01-08-2018 17:45:55 com.auth.controller.HomeController 409 INFO : Request Meta Data Details:AUA Code::0001980000::RTransactionId::AUTHBRIDGE-174420180801054550414::RequestTime::2018-08-01 17:45:52.670::API Name::2.0
+01-08-2018 17:45:55 com.auth.controller.HomeController 410 INFO : Request XML:<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Auth uid="696825583304" rc="Y" ac="0001980000" tid="" ver="2.5" txn="AUTHBRIDGE-174420180801054550414" lk="MLAOdOPehRTYFsKgQdk4Sych344p-7QpBp_A0p0K39vqFXD3TA4_kMs" sa="0001980000" xmlns="http://www.uidai.gov.in/authentication/uid-auth-request/2.0">
+    <Uses pi="y" pa="n" pfa="n" bio="n" bt="" pin="n" otp="n"/>
+    <Meta rdsId="" rdsVer="" dpId="" dc="" mi="" mc=""/>
+    <Skey ci="20191230">Sqe6wyQk8KxREuOvi+72V0n9OMLVwrucZsBMncw7ossTwjcGfKZrrR1fiVtZY7HcyPXxVkxFDeVvh2Lu2kNvq2NoqJvNW1QTazFzHH/r4XKqMVh2UtJ+RoL2cCAIi4+xwXcXCY9exPZfUdnwmMWG+pXyrtFBBCKtj1zb+wHHREkOhpSOL+xm+pYoKGBGz+QJZcaidI1pU2wZV1bP9eQpZgk2GtlZKvpq916gTSuK6J3onF8WmMaIgge4q2oTALFUkdXZqP5TfG5j7pzOKcG6sp+NTjLK61foeK7hrbLsUyGOx01t3d/IDu4k6olQYFAivCBjKUXn4M2SVRUBJiP5Gg==</Skey>
+    <Data type="X">MjAxOC0wOC0wMVQxNzo0NTo1MJAyUiCLrnooCYJlrzkt48Zu9Hh7qfSKzLpIjGaC39vD/b45wJBanShPTkSpU9T2mLHPJLalL80YhV3IGckls0SPFYLjsxz2x/7kzYH2TnYUZNyMPFDDPcACO0nyVqRsg3LIPLZOB08FSCqF44IC25h2AW5pkT7dyUyrwJbpYfwg+t6+7cSGFd18fLqYHIGD56g7AffwiiGQymVxr6RjIp4DY5nu3hqebJ4aQtvIPNEE+gRMNbSd5V5m41E1qym/KJshDtaVHA==</Data>
+    <Hmac>r/HVCyMpQab5RrB7+AtcAtDH3SxiwTPnowUQN/kAw/oJPSy6ZXL9u15yGrItlboW</Hmac>
+</Auth>
+
+01-08-2018 17:45:55 com.auth.controller.HomeController 411 INFO : Response XML:<?xml version="1.0" encoding="utf-8"?><xml><res_code>11</res_code><client_id/><res_msg>Invalid request. Please validate request data.</res_msg><res_hash>NA</res_hash><res_data>NA</res_data></xml>

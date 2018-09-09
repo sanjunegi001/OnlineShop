@@ -1,0 +1,154 @@
+06-08-2018 10:16:27 com.auth.controller.HomeController 97 INFO : User Login ::AUTH_TUH
+06-08-2018 10:24:53 com.auth.controller.HomeController 97 INFO : User Login ::AUTH_TUH
+06-08-2018 10:25:15 com.auth.controller.HomeController 141 INFO : CONSENT: CONSENT TAKEN BY USER
+06-08-2018 10:25:15 com.auth.controller.HomeController 142 INFO : User Login For Demo Auth ::AUTH_TUH
+06-08-2018 10:25:30 com.auth.controller.HomeController 97 INFO : User Login ::AUTH_TUH
+06-08-2018 10:26:51 com.auth.controller.HomeController 97 INFO : User Login ::AUTH_TUH
+06-08-2018 11:10:35 com.auth.controller.HomeController 97 INFO : User Login ::null
+06-08-2018 11:10:51 com.auth.controller.HomeController 97 INFO : User Login ::AUTH_TUH
+06-08-2018 11:11:12 com.auth.controller.HomeController 139 INFO : CONSENT: CONSENT TAKEN BY USER
+06-08-2018 11:11:12 com.auth.controller.HomeController 140 INFO : User Login For Demo Auth ::AUTH_TUH
+06-08-2018 11:11:17 com.auth.controller.HomeController 97 INFO : User Login ::AUTH_TUH
+06-08-2018 11:11:43 com.auth.controller.HomeController 410 INFO : Request Details:Aadhaar Number::696825583304::Verify By::AUTH_TUH
+06-08-2018 11:11:43 com.auth.controller.HomeController 411 INFO : Request Meta Data Details:AUA Code::0001980000::RTransactionId::AUTHBRIDGE-419920180806111112372::RequestTime::2018-08-06 11:11:14.002::API Name::2.0
+06-08-2018 11:11:43 com.auth.controller.HomeController 412 INFO : Request XML:<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Auth uid="696825583304" rc="Y" ac="0001980000" tid="" ver="2.5" txn="AUTHBRIDGE-419920180806111112372" lk="MLAOdOPehRTYFsKgQdk4Sych344p-7QpBp_A0p0K39vqFXD3TA4_kMs" sa="0001980000" xmlns="http://www.uidai.gov.in/authentication/uid-auth-request/2.0">
+    <Uses pi="y" pa="n" pfa="n" bio="n" bt="" pin="n" otp="n"/>
+    <Meta rdsId="" rdsVer="" dpId="" dc="" mi="" mc=""/>
+    <Skey ci="20191230">NwIZcEfUDzi6T9XJmGdE+e90W/Lr/UoluRkrTP1hv/Hj2qx8ylfReJAuLMktcB2333PqHOIx76fF0/ak0y/S1eAPlkuTwU/iJ1NaIuwPe/y9W3b9TMv6Qqd3FAFD7OIMmN5cwuRRC0cL0rVCrxwSJUasu+3Oczbe9rMi+Xb0hg/LXdJ3KhATd9ospxKJJFIrk344qaZvZMIldnHexm632LnhHmwd217XBd9LpPVNvP6fMOvzOFVgox9U4Ufy2EQunJKsIVLl7Lw3y5x1UiM1z2RCobAH1gizXp5YsYc/0KMyr9nrpQRSwcWRcUffkKCEQARU/l1BOrl3JkFF2QfQSg==</Skey>
+    <Data type="X">MjAxOC0wOC0wNlQxMToxMToxMtTbHAtP4fbaYSzULWdx6JIu1XVZdCIk7MaWQzhTFWmpRAGu3KDFgGx1cykfoRXcUhAthGsEP9iC7yC34RHKnfv4AAIvNlzAaPO1TY2CvFTW//O5cNHw1cpZRDwuLwq4ebrnQRyFs/EKEl/YvSvTDxosR+b7KQSz5H7e0NIkxfMuOK81lvXrFCVTQYasOj8PiSdq/sRpuozshgU/VeWAJa/JphVn+UledenYdmhbOzeyHdQn5d3uKgcM</Data>
+    <Hmac>uxO/ceaY8B4tdmF8xVeF6ld1dJmzhnGx3+0Eme0ebdY5foYzr/0d6FKSXluWMlMd</Hmac>
+</Auth>
+
+06-08-2018 11:11:43 com.auth.controller.HomeController 413 INFO : Response XML:<?xml version="1.0" encoding="utf-8"?><xml><res_code>11</res_code><client_id/><res_msg>Invalid request. Please validate request data.</res_msg><res_hash>NA</res_hash><res_data>NA</res_data></xml>
+06-08-2018 13:14:53 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+06-08-2018 13:14:58 com.auth.controller.DemoApiController 342 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808061314:0001980000:9304630::RequestTime::2018-08-06 13:14:53.962::API Name::2.5
+06-08-2018 13:14:58 com.auth.controller.DemoApiController 343 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-06 13:14:58.806::Status Code:A200::ResTranscation id:1808061314:0001980000:9304630
+06-08-2018 13:15:02 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+06-08-2018 13:15:04 com.auth.controller.DemoApiController 342 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808061315:0001980000:4856519::RequestTime::2018-08-06 13:15:02.690::API Name::2.5
+06-08-2018 13:15:04 com.auth.controller.DemoApiController 343 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-06 13:15:04.001::Status Code:A200::ResTranscation id:1808061315:0001980000:4856519
+06-08-2018 13:15:05 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+06-08-2018 13:15:06 com.auth.controller.DemoApiController 342 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808061315:0001980000:7899005::RequestTime::2018-08-06 13:15:05.545::API Name::2.5
+06-08-2018 13:15:06 com.auth.controller.DemoApiController 343 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-06 13:15:06.483::Status Code:A200::ResTranscation id:1808061315:0001980000:7899005
+06-08-2018 13:15:07 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+06-08-2018 13:15:09 com.auth.controller.DemoApiController 342 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808061315:0001980000:4595789::RequestTime::2018-08-06 13:15:07.905::API Name::2.5
+06-08-2018 13:15:09 com.auth.controller.DemoApiController 343 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-06 13:15:09.525::Status Code:A200::ResTranscation id:1808061315:0001980000:4595789
+06-08-2018 13:15:10 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+06-08-2018 13:15:12 com.auth.controller.DemoApiController 342 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808061315:0001980000:1757596::RequestTime::2018-08-06 13:15:10.620::API Name::2.5
+06-08-2018 13:15:12 com.auth.controller.DemoApiController 343 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-06 13:15:12.584::Status Code:A200::ResTranscation id:1808061315:0001980000:1757596
+06-08-2018 13:30:56 com.auth.controller.HomeController 69 INFO : User Login ::null
+06-08-2018 13:31:15 com.auth.controller.HomeController 69 INFO : User Login ::AUTH_TUH
+06-08-2018 13:31:29 com.auth.controller.HomeController 111 INFO : CONSENT: CONSENT TAKEN BY USER
+06-08-2018 13:31:29 com.auth.controller.HomeController 112 INFO : User Login For Demo Auth ::AUTH_TUH
+06-08-2018 13:33:15 com.auth.controller.HomeController 69 INFO : User Login ::null
+06-08-2018 13:33:31 com.auth.controller.HomeController 69 INFO : User Login ::AUTH_TUH
+06-08-2018 13:33:48 com.auth.controller.HomeController 111 INFO : CONSENT: CONSENT TAKEN BY USER
+06-08-2018 13:33:48 com.auth.controller.HomeController 112 INFO : User Login For Demo Auth ::AUTH_TUH
+06-08-2018 13:34:44 com.auth.controller.HomeController 69 INFO : User Login ::AUTH_TUH
+06-08-2018 14:45:27 com.auth.controller.HomeController 72 INFO : User Login ::null
+06-08-2018 14:45:55 com.auth.controller.HomeController 72 INFO : User Login ::AUTH_TUH
+06-08-2018 14:50:30 com.auth.controller.HomeController 72 INFO : User Login ::AUTH_TUH
+06-08-2018 14:51:54 com.auth.controller.HomeController 72 INFO : User Login ::AUTH_TUH
+06-08-2018 14:52:09 com.auth.controller.HomeController 117 INFO : CONSENT: CONSENT TAKEN BY USER
+06-08-2018 14:52:09 com.auth.controller.HomeController 118 INFO : User Login For Demo Auth ::AUTH_TUH
+06-08-2018 14:52:26 com.auth.controller.HomeController 72 INFO : User Login ::AUTH_TUH
+06-08-2018 15:11:41 com.auth.controller.HomeController 72 INFO : User Login ::AUTH_TUH
+06-08-2018 15:11:48 com.auth.controller.HomeController 117 INFO : CONSENT: CONSENT TAKEN BY USER
+06-08-2018 15:11:48 com.auth.controller.HomeController 118 INFO : User Login For Demo Auth ::AUTH_TUH
+06-08-2018 15:51:40 com.auth.controller.HomeController 98 INFO : User Login ::AUTH_TUH
+06-08-2018 15:52:16 com.auth.controller.HomeController 98 INFO : User Login ::AUTH_TUH
+06-08-2018 15:55:08 com.auth.controller.HomeController 98 INFO : User Login ::AUTH_TUH
+06-08-2018 15:56:46 com.auth.controller.HomeController 98 INFO : User Login ::AUTH_TUH
+06-08-2018 15:57:07 com.auth.controller.HomeController 141 INFO : CONSENT: CONSENT TAKEN BY USER
+06-08-2018 15:57:07 com.auth.controller.HomeController 142 INFO : User Login For Demo Auth ::AUTH_TUH
+06-08-2018 15:57:27 com.auth.controller.HomeController 1269 INFO : Response DATA:Aadhaar Number::696825583304::UNAME::sapan kumar dey::AsaStatus::-1::Exception::Remote host closed connection during handshake
+06-08-2018 16:03:22 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+06-08-2018 16:03:42 com.auth.controller.DemoApiController 536 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::null::RequestTime::2018-08-06 16:03:22.645::API Name::2.5
+06-08-2018 16:03:42 com.auth.controller.DemoApiController 537 INFO : Response Meta Data Details::Staus Message:Remote host closed connection during handshake::responsetime::2018-08-06 16:03:42.971::Status Code:A101::ResTranscation id:
+06-08-2018 16:04:47 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+06-08-2018 16:04:50 com.auth.controller.DemoApiController 342 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808061604:0001980000:2305702::RequestTime::2018-08-06 16:04:47.520::API Name::2.5
+06-08-2018 16:04:50 com.auth.controller.DemoApiController 343 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-06 16:04:49.966::Status Code:A200::ResTranscation id:1808061604:0001980000:2305702
+06-08-2018 16:05:09 com.auth.controller.HomeController 141 INFO : CONSENT: CONSENT TAKEN BY USER
+06-08-2018 16:05:09 com.auth.controller.HomeController 142 INFO : User Login For Demo Auth ::AUTH_TUH
+06-08-2018 16:05:10 com.auth.controller.HomeController 418 INFO : Request Details:Aadhaar Number::696825583304::Verify By::AUTH_TUH
+06-08-2018 16:05:10 com.auth.controller.HomeController 419 INFO : Request Meta Data Details:AUA Code::0001980000::RTransactionId::AUTHBRIDGE-829620180806040509651::RequestTime::2018-08-06 16:05:09.706::API Name::2.0
+06-08-2018 16:05:10 com.auth.controller.HomeController 420 INFO : Request XML:<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Auth uid="696825583304" rc="Y" ac="0001980000" tid="" ver="2.5" txn="AUTHBRIDGE-829620180806040509651" lk="MLAOdOPehRTYFsKgQdk4Sych344p-7QpBp_A0p0K39vqFXD3TA4_kMs" sa="0001980000" xmlns="http://www.uidai.gov.in/authentication/uid-auth-request/2.0">
+    <Uses pi="y" pa="n" pfa="n" bio="n" bt="" pin="n" otp="n"/>
+    <Meta rdsId="" rdsVer="" dpId="" dc="" mi="" mc=""/>
+    <Skey ci="20191230">Q7bHMdGlv/TCYW3bWASX/qLHoCgWWGpfPUPPbHoniwedHdou9nHKa/nQQnjzcCq4ha2/9kn7dC4ZNTYg64a6oYw3Iyel/czz2DJPNeJXY04TWQGqJ+E8HS2VokYr6rXyaXxuH+t8poEza8vifkUNW0bRpAEbH7IrDlC9PFs7RlLYAKOe3QCiYH0rDVh1w0nDUbaTCU0nCKBbhSDY7gbEov+qsjKGEFscWjaz8XSnxL7tGk+0lDfq44MNqqhht/9HbGGWmFJWwM1gmn7FnhmPlejcvJOH0Xi2sD3SiIToi0S3tjwI5kogSY4rp8XxWlwrqqrmzC5ozf5MaJK8u9GtfQ==</Skey>
+    <Data type="X">MjAxOC0wOC0wNlQxNjowNTowOQX5HJ4vDHJEcG1BVrZMzYl/64QfmvLffGDAuUu4pcUz3U+lNFgtuspu5WSaxLgO66dKiSYTEmJkMA5vQHN80jGFPOOE2oZwNsojknyHccJymvYNPCdnO7YarPa9Lg+C9Wp8/bsoo5rD6YiS/7JMAsZSD+U8iuqScSNcgN/cpXAqACGO/uYPYFHftEjvupzMiWTxuXv7cAq4xUgVYGMnMGkgXKuSHHOTOv6tZ0dyjT0o436z4Jl3G9cAKuVHMXGywO5+U8TNWQ==</Data>
+    <Hmac>5gTn+jHvoTg9x9FNkOCB/BxERiwiSgu4KgABnour0WEDQEoF8+Je+adHlJR509mj</Hmac>
+</Auth>
+
+06-08-2018 16:05:10 com.auth.controller.HomeController 421 INFO : Response XML:<?xml version="1.0" encoding="utf-8"?><xml><res_code>11</res_code><client_id/><res_msg>Invalid request. Please validate request data.</res_msg><res_hash>NA</res_hash><res_data>NA</res_data></xml>
+06-08-2018 16:05:10 com.auth.controller.HomeController 1120 INFO : Response DATA:Aadhaar Number::696825583304::UNAME::sapan kumar dey::AsaStatus::-1::Exception::Invalid request. Please validate request data.
+06-08-2018 16:26:25 com.auth.controller.HomeController 145 INFO : CONSENT: CONSENT TAKEN BY USER
+06-08-2018 16:26:25 com.auth.controller.HomeController 146 INFO : User Login For Demo Auth ::AUTH_TUH
+06-08-2018 16:26:28 com.auth.controller.HomeController 433 INFO : Request Details:Aadhaar Number::696825583304::Verify By::AUTH_TUH
+06-08-2018 16:26:28 com.auth.controller.HomeController 434 INFO : Request Meta Data Details:AUA Code::0001980000::RTransactionId::AUTHBRIDGE-255320180806042625416::RequestTime::2018-08-06 16:26:27.180::API Name::2.0
+06-08-2018 16:26:28 com.auth.controller.HomeController 435 INFO : Request XML:<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Auth uid="696825583304" rc="Y" ac="0001980000" tid="" ver="2.5" txn="AUTHBRIDGE-255320180806042625416" lk="MLAOdOPehRTYFsKgQdk4Sych344p-7QpBp_A0p0K39vqFXD3TA4_kMs" sa="0001980000" xmlns="http://www.uidai.gov.in/authentication/uid-auth-request/2.0">
+    <Uses pi="y" pa="n" pfa="n" bio="n" bt="" pin="n" otp="n"/>
+    <Meta rdsId="" rdsVer="" dpId="" dc="" mi="" mc=""/>
+    <Skey ci="20191230">W+FJDgatb3mX5R9gNZqOHkcHMi47vDmCY+YDCgM0VdzWUQ0HIz8cbeY6u3Dtj4EwBdwI3CAYQ7XwWru/tqtwWx1io2KiBU75raTtU8TFTgBdEPyUmSrRSDbTSb4/b50pNdItDhqN1gNbMlmjyD+dGjjeV74R6ara3ECwWD50URCsTQB/ZZm47Ja1ioe8h8h6mmIk2DyEXZE5zs3C0So4VrCWUr5vF+HE5A1OP6yCbw5RBsQzLHBqEJF1/LWY7piGhS9BNXwJU1jEUANc8DcZqOP3ZUXJ6dt7yMUUNMHuFScFks/OCZ70JUuCZrnGMeP/mthrH/d34MSi2Z9q4xw75Q==</Skey>
+    <Data type="X">MjAxOC0wOC0wNlQxNjoyNjoyNdkJqsGeBEyq3Fm6pJF8NwZfw1Yn1DHDnECwf3yNrD3rNoTOf4UBjDTM86HuCBSYtnHv3mixfHXwDbzwtSJhVqyqZc/26mgw3AL5vkBMnnbq6mzLT/qGxPDqC7qdNGKCYPm0RbmaaVKWZ3RVJMzBgzc9Jdv44Jz7g4DMpocsOQwv4Td72PtIzoBO/xtICxBYSdwTNhaXcaT/vnwAMTCLz054XmIUFyKqmmLz529jjKR37qL/HBjB5o+60qtcjwsyHbGRZpSLng==</Data>
+    <Hmac>9Y/NoADuPORmZIZI9HQI61roDnmgZxu1YQN0cbu4uN/wIDF6dAEC6zQDVhpsIj+M</Hmac>
+</Auth>
+
+06-08-2018 16:26:28 com.auth.controller.HomeController 436 INFO : Response XML:<?xml version="1.0" encoding="utf-8"?><xml><res_code>10</res_code><client_id>AUA-ABG</client_id><res_msg>Success from CSC AAG.</res_msg><res_hash>bFf5IvRhrEhK0oqil6iUCMY1fbjnESo/vORa+3ZtI7vj3mcMRGtANhLad431jZ58ZWrcfIMGdM7cp3TIJg9EfldxWh3ApzZE8C+LHcUY2U0=</res_hash><res_data>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48QXV0aFJlcyBjb2RlPSI2MDk5NDEyOWNlNTI0M2VlYjZkMTYwM2E1Njk1YzViMCIgaW5mbz0iMDR7MDEwMDEyODI5d1dydFplMDJIcjBEVjZoaE9iT2toL0d6S0RBQUYveC85VHNPK2dEdDFGbEI3MlFMQ080WGYzTHBtdVZMUlhXLEEsNDIxNzU3ODVmMTNhNmIzM2E2NzJiYTIxZWQ3ODZjZDQyZDFjOWQzN2RkNmNiYzEzNTQ0NzRiYTE2Y2U5YjhhYSwwMTgwMDAwMDA4MDAwMDEwLDIuMCwyMDE4MDgwNjE2MjYyNSwwLDAsMCwwLDIuNSxmZTkxY2MxMzc4MmQ3MjdlMzJlNjFmMTMyMjI2ODUwYzY1YTE2ZDFkYWNhZjI3OWYzNDFhNDRlZmZkZTJmMGYxLDQ5MDg2NzkxMjliNmY5MWMyMzQxN2FmNGY3ODc5YTYzMDYyZTEwM2MxZGM4MGIwYzM5NmI5YjFmM2MyN2MyZTYsNDkwODY3OTEyOWI2ZjkxYzIzNDE3YWY0Zjc4NzlhNjMwNjJlMTAzYzFkYzgwYjBjMzk2YjliMWYzYzI3YzJlNiwyMyxFLDEwMCxOQSxOQSxOQSxOQSxOQSxOQSxOQSwsTkEsTkEsTkEsTkEsTkEsTkF9IiByZXQ9InkiIHRzPSIyMDE4LTA4LTA2VDE2OjI2OjE0LjQ5MyswNTozMCIgdHhuPSJBVVRIQlJJREdFLTI1NTMyMDE4MDgwNjA0MjYyNTQxNiI+PFNpZ25hdHVyZSB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC8wOS94bWxkc2lnIyI+PFNpZ25lZEluZm8+PENhbm9uaWNhbGl6YXRpb25NZXRob2QgQWxnb3JpdGhtPSJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy14bWwtYzE0bi0yMDAxMDMxNSIvPjxTaWduYXR1cmVNZXRob2QgQWxnb3JpdGhtPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwLzA5L3htbGRzaWcjcnNhLXNoYTEiLz48UmVmZXJlbmNlIFVSST0iIj48VHJhbnNmb3Jtcz48VHJhbnNmb3JtIEFsZ29yaXRobT0iaHR0cDovL3d3dy53My5vcmcvMjAwMC8wOS94bWxkc2lnI2VudmVsb3BlZC1zaWduYXR1cmUiLz48L1RyYW5zZm9ybXM+PERpZ2VzdE1ldGhvZCBBbGdvcml0aG09Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvMDQveG1sZW5jI3NoYTI1NiIvPjxEaWdlc3RWYWx1ZT5BZmtySzZ2TStRanlmeklkT3FnblZkWGdkU3U4SE1Rd213a0w3SU5UQmljPTwvRGlnZXN0VmFsdWU+PC9SZWZlcmVuY2U+PC9TaWduZWRJbmZvPjxTaWduYXR1cmVWYWx1ZT5YR1N2bHJWaFlQL0FlTUF6bXJRYUNNeE5qVjQ3ZTNBMUVXQ3hzUWl0anBtQ2RIUnlTeWgzeGFzbURmRmx4aWgyTmVacjNXcDhSYXE1CjRGZVpmVnZvTE1sZmVtd3dlSnlHUEp6Uyt5TVBnN3dlQUdYSkY1czJMM0VOSDBMeVMvM1VoOVo3bTR1b0hqR0pJVkQybXJPdVRlUDAKYmZOUWpQUWM0MjdDNXNoTFkwYmV4dktSa1NScG5wVHVVZjIrV2JMQjY5VmIxNTREUG4rSGtndDRQaGF2cklSdERFZTZxb0txR1B6UgprSG9zMzZidHV2Y0Njd1RmYk9oQlN2MUk5enhhWVM1c1NKS2ZPZ0hocEpuZ3JrK2REU1d6K0pYaXpTU3BVdjFJZHJYczFHenlxRkE3ClZ5c25wMlN2RlhhYXBhU25kaGh6cmdLMEZkbHU2ellaRmQwMGhRPT08L1NpZ25hdHVyZVZhbHVlPjwvU2lnbmF0dXJlPjwvQXV0aFJlcz4=</res_data></xml>
+06-08-2018 16:26:28 com.auth.controller.HomeController 470 INFO : Response DATA:Aadhaar Number::696825583304::UNAME::sapan kumar dey::AsaStatus::1::TransactionId::AUTHBRIDGE-255320180806042625416::TimeStamp::2018-08-06T16:26:14.493+05:30::RequsetTme::2018-08-06 16:26:27.180
+06-08-2018 16:26:58 com.auth.controller.HomeController 145 INFO : CONSENT: CONSENT TAKEN BY USER
+06-08-2018 16:26:58 com.auth.controller.HomeController 146 INFO : User Login For Demo Auth ::AUTH_TUH
+06-08-2018 16:26:59 com.auth.controller.HomeController 433 INFO : Request Details:Aadhaar Number::696825583301::Verify By::AUTH_TUH
+06-08-2018 16:26:59 com.auth.controller.HomeController 434 INFO : Request Meta Data Details:AUA Code::0001980000::RTransactionId::AUTHBRIDGE-467020180806042658892::RequestTime::2018-08-06 16:26:58.952::API Name::2.0
+06-08-2018 16:26:59 com.auth.controller.HomeController 435 INFO : Request XML:<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Auth uid="696825583301" rc="Y" ac="0001980000" tid="" ver="2.5" txn="AUTHBRIDGE-467020180806042658892" lk="MLAOdOPehRTYFsKgQdk4Sych344p-7QpBp_A0p0K39vqFXD3TA4_kMs" sa="0001980000" xmlns="http://www.uidai.gov.in/authentication/uid-auth-request/2.0">
+    <Uses pi="y" pa="n" pfa="n" bio="n" bt="" pin="n" otp="n"/>
+    <Meta rdsId="" rdsVer="" dpId="" dc="" mi="" mc=""/>
+    <Skey ci="20191230">hjHk/mspAoeBcYADzQbp4Uk03mEpXArh43mvzxc0itNz+bZ+wxc/fU4h4YHRhdirk/pJLhB6p79MgUUbYqLOqhsFxR4SI3a/ZwvK6cuFk3w8MlXDipm1JwCUezClQNte35Xy13ecXAak0cNNQbOMASFzfJ2d6sI8Uwh9yA+uQTYD8s7GjfpdFLOGRppv/EVRDfOvKoqKJwXDNKmhDIVnlHNrl2ePVneWoWSrHLFgZPkT+LiHByEpn6IzGtKi/pdUKS7a488XKkbb0aGdTd1p3ZlecIbNqjBLtFJinvDbzAS3EteCvB0eYhn8Ke85wZyzZTE81g3aIAN6Hqu0j5niUQ==</Skey>
+    <Data type="X">MjAxOC0wOC0wNlQxNjoyNjo1OLwM7PhCcFS3uPTEq0xO9mO9KHM9YsO/tgaa09R9kAO2uwCr3gazaa4FqLxuokSDJbvH61DauiKtyQ3w+1TI08jGsqHMUO+bGBNN/Crn+HQxldrKtHsVxoBSYoxmZr9Y9C4/sZad+oO+4lErbb+5cL3AAWjdQigs7RFsg5g0xGOz9NCY2Y7w7O/JyE89S0h2Cs8HNy9/M2QaKCu+U5/1fpHJTgQOi3b5uIwJ5Nh0qtZwmGKAYm6xTqIbel3CC4066Fl52xiwfA==</Data>
+    <Hmac>2Os720KmHbHC3sEsdKiOUlcmkWDD3xFO6Avk5sUkcmfAryScJI6W607cWeLWTCDd</Hmac>
+</Auth>
+
+06-08-2018 16:26:59 com.auth.controller.HomeController 436 INFO : Response XML:<?xml version="1.0" encoding="utf-8"?><xml><res_code>14</res_code><client_id>AUA-ABG</client_id><res_msg>The attribute 'uid' of tag 'auth' is not a valid aadhaar number</res_msg><res_hash>NA</res_hash><res_data>NA</res_data></xml>
+06-08-2018 16:26:59 com.auth.controller.HomeController 1135 INFO : Response DATA:Aadhaar Number::696825583301::UNAME::sapan kumar dey::AsaStatus::-1::Exception::The attribute 'uid' of tag 'auth' is not a valid aadhaar number
+06-08-2018 16:40:13 com.auth.controller.HomeController 147 INFO : CONSENT: CONSENT TAKEN BY USER
+06-08-2018 16:40:13 com.auth.controller.HomeController 148 INFO : User Login For Demo Auth ::AUTH_TUH
+06-08-2018 16:40:17 com.auth.controller.HomeController 430 INFO : Request Details:Aadhaar Number::696825583304::Verify By::AUTH_TUH
+06-08-2018 16:40:17 com.auth.controller.HomeController 431 INFO : Request Meta Data Details:AUA Code::0001980000::RTransactionId::AUTHBRIDGE-871320180806044013856::RequestTime::2018-08-06 16:40:16.110::API Name::2.0
+06-08-2018 16:40:17 com.auth.controller.HomeController 432 INFO : Request XML:<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Auth uid="696825583304" rc="Y" ac="0001980000" tid="" ver="2.5" txn="AUTHBRIDGE-871320180806044013856" lk="MLAOdOPehRTYFsKgQdk4Sych344p-7QpBp_A0p0K39vqFXD3TA4_kMs" sa="0001980000" xmlns="http://www.uidai.gov.in/authentication/uid-auth-request/2.0">
+    <Uses pi="y" pa="n" pfa="n" bio="n" bt="" pin="n" otp="n"/>
+    <Meta rdsId="" rdsVer="" dpId="" dc="" mi="" mc=""/>
+    <Skey ci="20191230">kj+hzofo9IX3Nk8TJB/cHR3aUijX8uml9WVLAJOba4QHqU8vvOl2jgwMALcvA28gfieRrMpGyBZopG5uRpmaKJ5taYYrzokTGqBIPCaR+yJ9+D7T6VbNFdFOQ+TjkaQgD1VjatAR5tqTsIS6LdiqoqGCeAaMXJjN1dpnWFlwzsvKmhaEyyE9pR49pyx3k34B0Vpq2lJVQzSuXmRQlfkCqJ1xtVWNFFJpbJDUfOKuFiTe6rkxf7PGX4ECKn5BzJTuTcu3TPWUyjwZcrZnicTSb/ywMQRYlK4BWAxq9MQaJbz6tMtQ453pe2ef4yF54+hr5Ez4km8vb64k6hgHO/Kkkw==</Skey>
+    <Data type="X">MjAxOC0wOC0wNlQxNjo0MDoxNNrgN1r0V0Y7F+stytA92XT1pMlFzBQP67juLJkMsbtv3arVsqZJxDVtACgXnalrHW3BvU4AAc2C3ui9daHQIfk0qWoSTDroKErKqyW6uTL+Qb91iIF061XrgKvwm7B16nSmSUyuDOuwtttDqBdQTXEFsonMt5FOLjLIIorWpLhldyyiH1lyEX9085kYYO11xGU4YyWYhEW93xn9g3y5fQPngS7NMq38vYkzrLrY48ts5Up3rmv1zVjEDTYwrYcic/RSFxaPIw==</Data>
+    <Hmac>YYgzpVbYRL36Zi134Gou9LWfMVOvEpoCo5tg3VKbH9MQNYjO8+m4sjWxEQ6bhnX8</Hmac>
+</Auth>
+
+06-08-2018 16:40:17 com.auth.controller.HomeController 433 INFO : Response XML:<?xml version="1.0" encoding="utf-8"?><xml><res_code>10</res_code><client_id>AUA-ABG</client_id><res_msg>Success from CSC AAG.</res_msg><res_hash>xIYHiySdm5LySdvEYR5asz1gFAuVdXsPIZcExZKtvpkb2n3SBrcDrngPwn+yC+5PRT18I8OtTE2z/vMVqz8+DdAtWEcDmXRJ3qY1EyCnBUQ=</res_hash><res_data>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48QXV0aFJlcyBjb2RlPSJlMWJlZTFjMDZkNjM0NDQ2YjVhMjAzMzM0MDJhODk5MSIgaW5mbz0iMDR7MDEwMDEyODI5d1dydFplMDJIcjBEVjZoaE9iT2toL0d6S0RBQUYveC85VHNPK2dEdDFGbEI3MlFMQ080WGYzTHBtdVZMUlhXLEEsNDIxNzU3ODVmMTNhNmIzM2E2NzJiYTIxZWQ3ODZjZDQyZDFjOWQzN2RkNmNiYzEzNTQ0NzRiYTE2Y2U5YjhhYSwwMTgwMDAwMDA4MDAwMDEwLDIuMCwyMDE4MDgwNjE2NDAxNCwwLDAsMCwwLDIuNSxmZTkxY2MxMzc4MmQ3MjdlMzJlNjFmMTMyMjI2ODUwYzY1YTE2ZDFkYWNhZjI3OWYzNDFhNDRlZmZkZTJmMGYxLDQ5MDg2NzkxMjliNmY5MWMyMzQxN2FmNGY3ODc5YTYzMDYyZTEwM2MxZGM4MGIwYzM5NmI5YjFmM2MyN2MyZTYsNDkwODY3OTEyOWI2ZjkxYzIzNDE3YWY0Zjc4NzlhNjMwNjJlMTAzYzFkYzgwYjBjMzk2YjliMWYzYzI3YzJlNiwyMyxFLDEwMCxOQSxOQSxOQSxOQSxOQSxOQSxOQSwsTkEsTkEsTkEsTkEsTkEsTkF9IiByZXQ9InkiIHRzPSIyMDE4LTA4LTA2VDE2OjQwOjAzLjUyMCswNTozMCIgdHhuPSJBVVRIQlJJREdFLTg3MTMyMDE4MDgwNjA0NDAxMzg1NiI+PFNpZ25hdHVyZSB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC8wOS94bWxkc2lnIyI+PFNpZ25lZEluZm8+PENhbm9uaWNhbGl6YXRpb25NZXRob2QgQWxnb3JpdGhtPSJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy14bWwtYzE0bi0yMDAxMDMxNSIvPjxTaWduYXR1cmVNZXRob2QgQWxnb3JpdGhtPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwLzA5L3htbGRzaWcjcnNhLXNoYTEiLz48UmVmZXJlbmNlIFVSST0iIj48VHJhbnNmb3Jtcz48VHJhbnNmb3JtIEFsZ29yaXRobT0iaHR0cDovL3d3dy53My5vcmcvMjAwMC8wOS94bWxkc2lnI2VudmVsb3BlZC1zaWduYXR1cmUiLz48L1RyYW5zZm9ybXM+PERpZ2VzdE1ldGhvZCBBbGdvcml0aG09Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvMDQveG1sZW5jI3NoYTI1NiIvPjxEaWdlc3RWYWx1ZT5sVzVLa2ZTc2xYYndEcjA3NU8xL3IwUFVpVDB5WGFzQUVwNE54ZXcvU3hvPTwvRGlnZXN0VmFsdWU+PC9SZWZlcmVuY2U+PC9TaWduZWRJbmZvPjxTaWduYXR1cmVWYWx1ZT5sM0lWV0FrQ2ZzYXA1VTlIcm1hRmkwZ3dodUVyVys4S3N4T3NWakp1RWhyUTRTUTFISGc2U1RINnVlS0FweUVlYmg2YWsrU0xzUmtrCjRyZGxBOXA2Qk1wMStVODBQeno1S2hCVFI4VU9MK1dqZDhGNlhlcnh0b3lCbmdmSGEvaVFkdVR4bDJjZk96STQxakpLS2htT0lYYXcKWmNHYnYxR1E5VXlRQWlKekhLRzU2blJMdklEclFLRGc0ZE0rdS9yRW5CWmhFSU16RnlVdXpBZGNQcnVYWCs5QkJFSVRrSXpuRDh0UgpMZTMvTFZRMmVTWDVmZDhxK080blJrTTlNR200anlxc09oL2lzazI5cEg1NnZaOC8rVmE5UUkyZVpNRlJGR05BYVhyb25BanBSUGhUClcrbG1HM2NSelRCYlduTGphSlNEd0ZWQm1mUFZWVWVyTzdWWVRBPT08L1NpZ25hdHVyZVZhbHVlPjwvU2lnbmF0dXJlPjwvQXV0aFJlcz4=</res_data></xml>
+06-08-2018 16:40:17 com.auth.controller.HomeController 470 INFO : Response DATA:Aadhaar Number::696825583304::UNAME::sapan kumar dey::AsaStatus::1::TransactionId::AUTHBRIDGE-871320180806044013856::TimeStamp::2018-08-06T16:40:03.520+05:30::RequsetTme::2018-08-06 16:40:16.110
+06-08-2018 17:04:34 com.auth.controller.HomeController 108 INFO : User Login ::AUTH_TUH
+06-08-2018 17:04:52 com.auth.controller.HomeController 151 INFO : CONSENT: CONSENT TAKEN BY USER
+06-08-2018 17:04:52 com.auth.controller.HomeController 152 INFO : User Login For Demo Auth ::AUTH_TUH
+06-08-2018 17:04:57 com.auth.controller.HomeController 437 INFO : Request Details:Aadhaar Number::696825583304::Verify By::AUTH_TUH
+06-08-2018 17:04:57 com.auth.controller.HomeController 438 INFO : Request Meta Data Details:AUA Code::0001980000::RTransactionId::AUTHBRIDGE-702320180806050452644::RequestTime::2018-08-06 17:04:55.211::API Name::2.0
+06-08-2018 17:04:57 com.auth.controller.HomeController 439 INFO : Request XML:<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Auth uid="696825583304" rc="Y" ac="0001980000" tid="" ver="2.5" txn="AUTHBRIDGE-702320180806050452644" lk="MLAOdOPehRTYFsKgQdk4Sych344p-7QpBp_A0p0K39vqFXD3TA4_kMs" sa="0001980000" xmlns="http://www.uidai.gov.in/authentication/uid-auth-request/2.0">
+    <Uses pi="y" pa="n" pfa="n" bio="n" bt="" pin="n" otp="n"/>
+    <Meta rdsId="" rdsVer="" dpId="" dc="" mi="" mc=""/>
+    <Skey ci="20191230">RnogQWUxnJEHuoTMdXRV+8Dkwupxv8NnBejLgnZ8eDgXMcwrhPgZbJ22ptNCHEQC9MwYTyMjCu6F6H8nddPzvfOyLx9zrT5rkgLd3ttEI0FcZfbsK462Z3pL9ZvM1LUZS4K+upMggOxV7HgA514E88fuuzLALrPD6WPP0J+xtXNUlc7343sNUuZdc95vN5FxhvRaIZFP/MVG3vyIjtAtmPkj+6uYMI5/sRBaLoVF1EXVXmop3JwbfVg4XNl8OcKrBpzJpA5cjN5XXerhSE747oY7fxVDFxM3Ll62rzrFbapOuNnulFwY3MvvYrkHUzBO+uFkpYbZ+CwaEl5951igpg==</Skey>
+    <Data type="X">MjAxOC0wOC0wNlQxNzowNDo1Mn9HFtcO4QfLWTchblXADyOhCzjQVlLaPIYPzs1+rluQynHWR8auUfvM469k0uN/1Ey2guIyyVhrb4IAoJ7gbga5Fa3d19xEg8CrEkex/YlQqduAnmL3JCfjP3t9gsvOdb+bxAWIn14I9019NfOWjaQsBMSI5795UBakPq8fQogMsjPZp4WLVldgyifaZ35/8XHxTYfeQjw7p8G32nA9NlC4VeqrcR4eH0JyjeCXwJQyn3BOejkFYaaaIY+NzGM6ahEBcFOCpA==</Data>
+    <Hmac>qIN9EGlxMrKYF0WAl4fOGfk5hvpuVnIMZDA8LrOTBQNlUMHoM+j42hRk72vT6Ee+</Hmac>
+</Auth>
+
+06-08-2018 17:04:57 com.auth.controller.HomeController 440 INFO : Response XML:<?xml version="1.0" encoding="utf-8"?><xml><res_code>10</res_code><client_id>AUA-ABG</client_id><res_msg>Success from CSC AAG.</res_msg><res_hash>dexCo2fYuiiMQXuEQ/+NAG7UPzInVCd1lbMhf6EV7c+Wvx6vi7XeR67fgIBN5btPTpKKiLh9k02jS42kOEljGgCWe8XH1vTrJbBfnZoZ1bI=</res_hash><res_data>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48QXV0aFJlcyBjb2RlPSIyZTgyOWExYzg2YjA0NzEyYmQxYWZkYWQyMzQyMDNhMCIgaW5mbz0iMDR7MDEwMDEyODI5d1dydFplMDJIcjBEVjZoaE9iT2toL0d6S0RBQUYveC85VHNPK2dEdDFGbEI3MlFMQ080WGYzTHBtdVZMUlhXLEEsNDIxNzU3ODVmMTNhNmIzM2E2NzJiYTIxZWQ3ODZjZDQyZDFjOWQzN2RkNmNiYzEzNTQ0NzRiYTE2Y2U5YjhhYSwwMTgwMDAwMDA4MDAwMDEwLDIuMCwyMDE4MDgwNjE3MDQ1MiwwLDAsMCwwLDIuNSxmZTkxY2MxMzc4MmQ3MjdlMzJlNjFmMTMyMjI2ODUwYzY1YTE2ZDFkYWNhZjI3OWYzNDFhNDRlZmZkZTJmMGYxLDQ5MDg2NzkxMjliNmY5MWMyMzQxN2FmNGY3ODc5YTYzMDYyZTEwM2MxZGM4MGIwYzM5NmI5YjFmM2MyN2MyZTYsNDkwODY3OTEyOWI2ZjkxYzIzNDE3YWY0Zjc4NzlhNjMwNjJlMTAzYzFkYzgwYjBjMzk2YjliMWYzYzI3YzJlNiwyMyxFLDEwMCxOQSxOQSxOQSxOQSxOQSxOQSxOQSwsTkEsTkEsTkEsTkEsTkEsTkF9IiByZXQ9InkiIHRzPSIyMDE4LTA4LTA2VDE3OjA0OjQyLjc4OCswNTozMCIgdHhuPSJBVVRIQlJJREdFLTcwMjMyMDE4MDgwNjA1MDQ1MjY0NCI+PFNpZ25hdHVyZSB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC8wOS94bWxkc2lnIyI+PFNpZ25lZEluZm8+PENhbm9uaWNhbGl6YXRpb25NZXRob2QgQWxnb3JpdGhtPSJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy14bWwtYzE0bi0yMDAxMDMxNSIvPjxTaWduYXR1cmVNZXRob2QgQWxnb3JpdGhtPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwLzA5L3htbGRzaWcjcnNhLXNoYTEiLz48UmVmZXJlbmNlIFVSST0iIj48VHJhbnNmb3Jtcz48VHJhbnNmb3JtIEFsZ29yaXRobT0iaHR0cDovL3d3dy53My5vcmcvMjAwMC8wOS94bWxkc2lnI2VudmVsb3BlZC1zaWduYXR1cmUiLz48L1RyYW5zZm9ybXM+PERpZ2VzdE1ldGhvZCBBbGdvcml0aG09Imh0dHA6Ly93d3cudzMub3JnLzIwMDEvMDQveG1sZW5jI3NoYTI1NiIvPjxEaWdlc3RWYWx1ZT5LNDhna243N3hTMVpiUjlybjJQL0I3d3FFd2YydXdVYnZReC9MQnRKSU1jPTwvRGlnZXN0VmFsdWU+PC9SZWZlcmVuY2U+PC9TaWduZWRJbmZvPjxTaWduYXR1cmVWYWx1ZT5rakhGQnl6dnB3SmIzSDl1VU5GdkljalkyZnFoNHROVlNGZ1YxYjFEeUNpTXZycnRFMHF3VG5jbDNGNkUvMkY1L2wzc1VFZCtBc20yCmVObTlRaEhLWkh0aVI0eElGSFdyOGV3R01JdU1ZODNRV3hXVWJRRGJWZDNLV08xeGx5WWt5OTNIc0NJL01adWlMNzVlOFNEdUNZYzcKcDRUSThVemRJNXBSQ0lISDhweXY1NFV3RDNuTEpESlRESnY4eUJXc2NFK0J0LysxK0I2YWFMdGtYQUt0VGdlMlhvbnFsUHcvaTQ1VQpKVFdrcFVpTnVKMGovTnYrSmtnNzdLLzFQM0VES0hBNFEvRS9ndWV4ZUtCalFEdzVjbWxobDl5NTlVOHV6WnM1alJQb2NPSnVoUER1CjIwYWtlYVFlWHJlcExsblZhTkg5WDVhNS82QVhRMk9Bc2VDc1FBPT08L1NpZ25hdHVyZVZhbHVlPjwvU2lnbmF0dXJlPjwvQXV0aFJlcz4=</res_data></xml>
+06-08-2018 17:04:57 com.auth.controller.HomeController 477 INFO : Response DATA:Aadhaar Number::696825583304::UNAME::sapan kumar dey::AsaStatus::1::TransactionId::AUTHBRIDGE-702320180806050452644::TimeStamp::2018-08-06T17:04:42.788+05:30::RequsetTme::2018-08-06 17:04:55.211
+06-08-2018 17:31:01 com.auth.controller.HomeController 108 INFO : User Login ::AUTH_TUH
+06-08-2018 17:31:17 com.auth.controller.HomeController 151 INFO : CONSENT: CONSENT TAKEN BY USER
+06-08-2018 17:31:17 com.auth.controller.HomeController 152 INFO : User Login For Demo Auth ::AUTH_TUH
+06-08-2018 17:32:12 com.auth.controller.HomeController 108 INFO : User Login ::AUTH_TUH
+06-08-2018 17:53:51 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
+06-08-2018 17:53:53 com.auth.controller.DemoApiController 342 INFO : Request Meta Data Details:AUA Code::0001980000::SUB AUA Code::0001980000::ReqTransactionId::1808061753:0001980000:5482000::RequestTime::2018-08-06 17:53:51.583::API Name::2.5
+06-08-2018 17:53:53 com.auth.controller.DemoApiController 343 INFO : Response Meta Data Details::Staus Message:Authentication Success::responsetime::2018-08-06 17:53:53.312::Status Code:A200::ResTranscation id:1808061753:0001980000:5482000
+06-08-2018 18:15:09 com.auth.controller.DemoApiController 88 INFO : CONSENT : CONSENT TAKEN BY USER!
